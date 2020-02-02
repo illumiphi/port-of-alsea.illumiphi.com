@@ -1,0 +1,20 @@
+name: 'Port of Alsea'
+motto: 'Come Play!'
+telephone: 541-563-3872
+address:
+  streetAddress: '365 Port St # A'
+  addressRegion: OR
+  addressCountry: US
+  addressLocality: Waldport
+  postalCode: '97394'
+social:
+  facebook: portofalsea
+logo: logo.png
+image: DSCN2122.jpg
+org_type: GovernmentOrganization
+openingHours:
+  -
+    days: Fr-Tu
+    start: '16:00'
+    end: '20:30'
+url: 'https://portofalsea.com'

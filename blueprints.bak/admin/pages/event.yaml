@@ -1,0 +1,76 @@
+form:
+  validation: loose
+  fields:
+    section:
+        type: section
+        title: Add Event
+
+    title:
+      type: text
+      label: Event Title
+      validate:
+        required: true
+
+    content:
+      type: textarea
+      label: Description
+      validate:
+        type: textarea
+      default: "Port Office
+
+      ===
+
+      # AGENDA
+
+      ## Call to Order
+
+      ## Consent Calendar
+
+       - Approval of Regular Meeting Minutes - February 2019
+       - February Financials
+
+
+      ## Public Comment Period
+
+      ## Old Business
+
+      - Sale of the Bonds
+      - RFP on the Marina Project
+      - RFP Schedule and Procedures
+      - Permit Process
+
+      ## New Business
+
+      ## Commissioner's Comments
+
+      ## Adjournment"
+
+
+    header.data.event.startDate:
+      type: datetime
+      label: Start Date
+      validate:
+        required: true
+
+    folder:
+      type: hidden
+      default: '@slugify-title'
+
+    route:
+      type: hidden
+      default: '/events/'
+
+    header.template:
+      type: hidden
+      default: 'Event'
+
+    name:
+      type: hidden
+      default: 'event'
+
+    visible:
+      type: hidden
+      default: ''
+
+    blueprint:
+      type: blueprint

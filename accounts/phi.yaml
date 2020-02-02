@@ -1,0 +1,11 @@
+state: enabled
+email: illumiphi@gmail.com
+fullname: Phi
+title: Administrator
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$zfBhB9vtuGxz0gI6zsJYUOOrMheOO1Tdp592.cfwaucGxq0M3A5Oa

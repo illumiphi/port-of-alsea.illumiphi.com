@@ -1,0 +1,253 @@
+title: ✴ ORGANIZATION
+
+form:
+  validation: loose
+  fields:
+
+    content:
+      type: section
+      # title: ✴ ORGANIZATION
+      # text: test
+      help: https://schema.org/Organization
+      underline: true
+
+      fields:
+
+        columns:
+          type: columns
+          fields:
+            _column1:
+              type: column
+              fields:
+
+                name:
+                  type: text
+                  label: Name
+                  info: https://schema.org/name
+                  help: the name of the organization
+
+                description:
+                  type: editor
+                  label: Description
+                  info: https://schema.org/description
+                  help: the description of the organization
+                  validate:
+                    type: textarea
+
+                org_type:
+                  type: select
+                  label: Type of Organization
+                  help: the Type of the organization
+                  # size: long
+                  # classes: fancy
+                  default: Organization
+                  options:
+                      Organization: Organization
+                      LocalBusiness: Local Business
+                      GovernmentOrganization: Government Organization
+                      FoodEstablishment: Food Establishment
+                      Restaurant: Restaurant
+                      Store: Store
+
+                url:
+                  type: text
+                  label: URL
+                  help: domain name
+
+                telephone:
+                  type: text
+                  label: Telephone
+                  help: business phone number
+
+
+                openingHours:
+                  type: list
+                  style: vertical
+                  label: Opening Hours
+                  info: https://schema.org/openingHours
+                  help: "The general opening hours for a business. Opening hours can be specified as a weekly time range, starting with days, then times per day. Multiple days can be listed with commas ',' separating each day. Day or time ranges are specified using a hyphen '-'."
+
+                  fields:
+
+                    .days:
+                      type: text
+                      label: Days
+                      help:  "Days are specified using the following two-letter combinations: Mo, Tu, We, Th, Fr, Sa, Su."
+
+                    .start:
+                      type: text
+                      label: Start Time
+                      help: "Times are specified using 24:00 time. For example, 3pm is specified as 15:00. "
+
+                    .end:
+                      type: text
+                      label: End Time
+                      help: "Times are specified using 24:00 time. For example, 3pm is specified as 15:00. "
+
+                _tracking:
+                  type: fieldset
+                  title: Tracking
+                  help: Help text
+                  # info: Info text
+                  # text: Text inside fieldset and before other fields
+                  icon: circle
+                  collapsible: true    # Whether one can expand the fieldset or not
+                  collapsed: true     # Initial state of fieldset (see collapsible option)
+
+                  fields:
+
+                    tracking.owa_siteid:
+                      type: text
+                      label: OWA Site ID
+                      help: owa.photon-platform.com
+
+                    tracking.google_search:
+                      type: text
+                      label: Google Search Console
+                      help: search.google.com
+
+                _geographic:
+                  type: fieldset
+                  title: Geographic Location
+                  help: positional location on the planet
+                  info: https://schema.org/GeoCoordinates
+                  # text: Text inside fieldset and before other fields
+                  icon: diamond
+                  collapsible: true    # Whether one can expand the fieldset or not
+                  collapsed: true     # Initial state of fieldset (see collapsible option)
+
+                  fields:
+
+                    geographic.latitude:
+                      type: text
+                      label: Latitude
+                      help: owa.photon-platform.com
+
+                    geographic.longitude:
+                      type: text
+                      label: Longitude
+                      help: search.google.com
+
+
+
+                _address:
+                  type: fieldset
+                  title: Address
+                  help: Help text
+                  # info: Info text
+                  # text: Text inside fieldset and before other fields
+                  icon: square
+                  collapsed: true     # Initial state of fieldset (see collapsible option)
+                  collapsible: true    # Whether one can expand the fieldset or not
+
+                  fields:
+
+                    address.streetAddress:
+                      type: text
+                      help: The street address. For example: 123 Main St.
+                      label: PHOTON.event.address.streetAddress
+
+                    address.postOfficeBoxNumber:
+                      type: text
+                      help: The PO box. For example: 4444.
+                      label: PHOTON.event.address.postOfficeBoxNumber
+                      size: small
+
+                    address.addressLocality:
+                      type: text
+                      help: The city or locality. For example: Portland.
+                      label: PHOTON.event.address.addressLocality
+                      # default: Waldport
+                      size: medium
+
+                    address.addressRegion:
+                      type: text
+                      help: The state or region. For example: OR.
+                      label: PHOTON.event.address.addressRegion
+                      default: OR
+                      size: small
+
+                    address.postalCode:
+                      type: text
+                      help: The zip or postal code. For example: 97498.
+                      label: PHOTON.event.address.postalCode
+                      # default: 97394
+                      size: small
+
+                    address.addressCountry:
+                      type: text
+                      label: PHOTON.event.address.addressCountry
+                      info: https://schema.org/addressCountry
+                      help: The country or code. For example: US.
+                      default: US
+                      size: small
+
+                _social:
+                  type: fieldset
+                  title: Social Accounts
+                  # help: Help text
+                  # info: Info text
+                  # text: Text inside fieldset and before other fields
+                  icon: star
+                  collapsed: true     # Initial state of fieldset (see collapsible option)
+                  collapsible: true    # Whether one can expand the fieldset or not
+                  fields:
+
+                    social.facebook:
+                      type: text
+                      label: facebook
+                      help: user name
+
+                    social.twitter:
+                      type: text
+                      label: twitter
+                      help: user name
+
+                    social.linkedin:
+                      type: text
+                      label: linkedin
+                      help: user name
+
+                    social.youtube:
+                      type: text
+                      label: youtube
+                      help: just the channel name
+
+                    social.github:
+                      type: text
+                      label: github
+                      help: user name
+
+            _brand:
+              type: column
+              title: brand
+
+              fields:
+
+                logo:
+                  type: filepicker
+                  folder: 'page@:/images'
+                  label: Logo
+                  help: stand alone image suitable for identification
+                  preview_images: true
+                  # accept:
+                  #   - .png
+                  #   - .jpg
+
+                image:
+                  type: filepicker
+                  folder: 'page@:/images'
+                  label: Image
+                  help: image representing the organization
+                  preview_images: true
+                  # accept:
+                  #   - .png
+                  #   - .jpg
+
+                motto:
+                  type: markdown
+                  label: Motto
+                  size: x-small
+                  help: this will appear in the header - can use markdown
+                  validate:
+                    type: textarea
