@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
-export PROJECT=port-of-alsea
+export PROJECT=port-of-alsea.illumiphi.com
 export LOCAL="http://$PROJECT.local"
-export SERVER="https://$PROJECT.illumiphi.com"
-export SERVER_DIR="~/$PROJECT.illumiphi.com"
-export PROJECT_DIR="/home/phi/SITES/$PROJECT"
+export SERVER="https://$PROJECT"
+export SERVER_DIR="$SITESROOT/$PROJECT"
+export PROJECT_DIR="$SITESROOT/$PROJECT"
 export THEMES_DIR="$PROJECT_DIR/user/themes"
 export PLUGINS_DIR="$PROJECT_DIR/user/plugins"
 export PORT="1111"
