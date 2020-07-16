@@ -3,19 +3,19 @@ title: News
 subtitle: 'latest updates from the Port and our community'
 author: /home
 collection:
-    name: Articles
-    showCount: false
-    showMenu: false
+    name: Posts
+    showCount: true
+    showMenu: true
 content:
     items: '@self.children'
     order:
-      by: basename
-      dir: desc
+        by: basename
+        dir: desc
 child_type: article
+figure:
+    image: bald-eagle-2011-05-23.jpg
 show_gallery: false
 ---
-
-
 
 ===
 

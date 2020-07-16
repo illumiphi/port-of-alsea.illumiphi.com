@@ -1,18 +1,18 @@
 ---
-title: Notice to Crabbers
-subtitle: ODFW now requires marked buoys
-author: null
+title: 'Notice to Crabbers'
+subtitle: 'ODFW now requires marked buoys'
+author: /home
+collection:
+    name: Articles
+    showCount: false
+    showMenu: false
 content:
-  items: '@self.children'
+    items: '@self.children'
 child_type: article
-figure:
-  image: null
-  alt: null
-  title: null
-  caption: null
 taxonomy:
-  tag:
-  category: ODFW
+    category:
+        - ODFW
+        - ODFW
 ---
 
 - effective Jan 1, 2020

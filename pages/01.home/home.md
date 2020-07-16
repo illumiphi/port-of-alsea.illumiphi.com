@@ -1,27 +1,27 @@
 ---
-title: 'Port of Alsea '
+title: Port of Alsea 
 subtitle: 'everything you need to know to enjoy the bay'
 author: /home
 collection:
-    name: Latest Articles
+    name: 'Latest Articles'
     showCount: false
     showMenu: false
 content:
     items: '@root.descendants'
     order:
-      by: date
-      dir: desc
+        by: date
+        dir: desc
     limit: 10
 child_type: article
 taxonomy:
+    category:
+        - Marina
     tag:
-        # - showcase
+        - showcase
 menu: Home
 show_gallery: true
 featured: false
 ---
-
-
 
 ===
 

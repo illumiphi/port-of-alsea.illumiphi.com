@@ -2,33 +2,33 @@
 title: 'Alsea River RV Park & Marina'
 author: /home
 collection:
-  name: Articles
-  showCount: false
-  showMenu: false
+    name: Articles
+    showCount: false
+    showMenu: false
 content:
-  items: '@self.children'
+    items: '@self.children'
 child_type: article
 taxonomy:
-  category:
-    - Camping
-    - 'RV & Lodging'
-    - 'Service & Retail'
+    category:
+        - Camping
+        - 'RV & Lodging'
+        - 'Service & Retail'
+        - Camping
+        - 'RV & Lodging'
+        - 'Service & Retail'
 data:
-  organization:
-    '@type': Organization
-    name: 'Alsea River RV Park & Marina'
-    telephone: ' 541-563-3401; 877-770-6137'
-    url: 'http://www.alseariverrvpark.com/'
-    location:
-      geo:
-        latitude:
-        longitude:
-      address:
-        streetAddress: '3911 Alsea Highway'
-        addressLocality: Waldport
-        addressRegion: OR
-        postalCode: '97394'
-        addressCountry: US
+    organization:
+        '@type': Organization
+        name: 'Alsea River RV Park & Marina'
+        telephone: ' 541-563-3401; 877-770-6137'
+        url: 'http://www.alseariverrvpark.com/'
+        location:
+            address:
+                streetAddress: '3911 Alsea Highway'
+                addressLocality: Waldport
+                addressRegion: OR
+                postalCode: '97394'
+                addressCountry: US
 ---
 
 - on the Alsea River

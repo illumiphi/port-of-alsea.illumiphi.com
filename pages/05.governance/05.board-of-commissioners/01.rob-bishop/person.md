@@ -2,12 +2,13 @@
 title: 'Rob Bishop'
 subtitle: 'Board Chairman'
 author: /home
-featured_image: 'Rob Bishop.jpg'
-show_gallery: false
-attachments:
-    -
-        file: 'Rob Bishop.jpg'
-        title: 'Rob''s Pic'
+collection:
+    name: Articles
+    showCount: false
+    showMenu: false
+content:
+    items: '@self.children'
+child_type: article
 data:
     person:
         '@type': Person
@@ -21,9 +22,8 @@ data:
             addressRegion: OR
             postalCode: '97394'
             addressCountry: US
-featured: false
+show_gallery: false
 ---
-
 
 Commissioner since 2011
 

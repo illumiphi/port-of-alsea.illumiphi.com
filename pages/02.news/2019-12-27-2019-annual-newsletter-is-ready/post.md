@@ -1,19 +1,15 @@
 ---
-title: 2019 Annual Newsletter is Ready
-subtitle: Residents should receive theirs in the mail
-author: null
+title: '2019 Annual Newsletter is Ready'
+subtitle: 'Residents should receive theirs in the mail'
+author: /home
+collection:
+    name: Articles
+    showCount: false
+    showMenu: false
 content:
-  items: '@self.children'
+    items: '@self.children'
 child_type: article
-figure:
-  image: null
-  alt: null
-  title: null
-  caption: null
-taxonomy:
-  tag:
-  category:
-date: 12/27/2019
+date: '12/27/2019 12:00 am'
 ---
 
 - read it [here](/port-operations/annual-newsletters/2019-12-31-port-of-alsea-annual-newsletter)

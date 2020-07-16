@@ -1,6 +1,5 @@
 ---
 title: Recreation
-media_order: 028.jpg
 author: /home
 content:
     items: '@self.children'

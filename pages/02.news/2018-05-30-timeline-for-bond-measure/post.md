@@ -8,6 +8,9 @@ collection:
 content:
     items: '@self.children'
 child_type: article
+taxonomy:
+    category:
+        - Capital Projects
 ---
 
 Updates on the Port of Alsea Bond Measure Projects
