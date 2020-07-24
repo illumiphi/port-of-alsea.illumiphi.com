@@ -1,6 +1,7 @@
 ---
-title: 'Board of Commissioners Meeting'
-author: /home
+title: 'Board of Commissioners'
+subtitle: Regular Monthly Meeting
+author: /roxie
 content:
     items: '@self.children'
 child_type: article

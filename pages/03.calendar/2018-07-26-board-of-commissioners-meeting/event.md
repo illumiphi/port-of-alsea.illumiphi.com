@@ -1,26 +1,21 @@
 ---
-title: Board of Commissioners Meeting
-subtitle: null
-author: null
+title: Board of Commissioners
+subtitle: Regular Monthly Meeting
+author: /roxie/roxie
 content:
-  items: '@self.children'
-child_type: article
-figure:
-  image: null
-  alt: null
-  title: null
-  caption: null
+    items: '@self.children'
+child_type: post
 taxonomy:
-  tag:
-  category:
+    tag:
+    category:
 date: 07/26/2018 14:00
 data:
-  event:
-    startDate: 07/26/2018 14:00
-    allDay: false
-    address:
-      addressRegion: OR
-      addressCountry: US
+    event:
+        startDate: 07/26/2018 14:00
+        allDay: false
+        address:
+            addressRegion: OR
+            addressCountry: US
 ---
 
 

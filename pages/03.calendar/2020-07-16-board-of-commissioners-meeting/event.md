@@ -1,28 +1,33 @@
 ---
-title: Board of Commissioners Meeting
-subtitle: null
-author: null
+title: Board of Commissioners
+subtitle: Regular Monthly Meeting
+author: 
 content:
-  items: '@self.children'
+    items: '@self.children'
 child_type: article
-figure:
-  image: null
-  alt: null
-  title: null
-  caption: null
 taxonomy:
-  tag:
-  category:
+    category: [ Meetings ]
+    tag: [ BoC ]
 date: 07/16/2020 14:00
 data:
-  event:
-    startDate: 07/16/2020 14:00
-    allDay: false
-    address:
-      addressRegion: OR
-      addressCountry: US
+    event:
+        startDate: 07/16/2020 14:00
+        allDay: false
+        location:
+            '@type': Place
+            name: Port Office
+            geo:
+                '@type': GeoCoordinates
+                latitude: 44.4343779,
+                longitude:  -124.0593175 
+            address:
+                streetAddress: 365 Port St #A
+                addressLocality: Waldport
+                addressRegion: OR
+                postalCode: 97394
+                addressCountry: US
 ---
 
-- at the Port Office
+
 
 ===

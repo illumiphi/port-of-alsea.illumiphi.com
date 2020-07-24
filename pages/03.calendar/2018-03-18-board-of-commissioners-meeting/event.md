@@ -1,28 +1,56 @@
 ---
-title: Board of COmmissioners Meeting
-subtitle: null
-author: null
+title: Board of Commissioners
+subtitle: Regular Monthly Meeting
+author: /roxie
 content:
-  items: '@self.children'
-child_type: article
-figure:
-  image: null
-  alt: null
-  title: null
-  caption: null
+    items: '@self.children'
+child_type: post
 taxonomy:
-  tag:
-  category:
-date: 03/18/2018 14:00
+    tag:
+    category:
+date: 03/08/2018
 data:
-  event:
-    startDate: 03/18/2018 14:00
-    allDay: false
-    address:
-      addressRegion: OR
-      addressCountry: US
+    event:
+        startDate: 03/15/2018 14:00
+        allDay: false
+        address:
+            addressRegion: OR
+            addressCountry: US
 ---
 
 - at the Port Office
 
 ===
+
+
+
+# I. CALL TO ORDER
+
+# II. CONSENT CALENDAR
+
+## A. Approval of the February 15, 2018, Regular Meeting Minutes
+
+## B. February Financial Statement
+
+# III. MANAGER’S REPORT
+
+# IV. View the Future Presentation
+
+# V. OLD BUSINESS
+
+## A. Port’s Bond Measure Information Mailing
+
+## B. Use of Lot behind Office
+
+# VI. NEW BUSINESS
+
+## A. Reappointment of Linda Erickson to the Budget Committee
+
+## B. Budget Process
+
+## C. Approval of Memorial Bench Application
+
+# VII. COMMISSIONERS’ COMMENTS
+
+# VIII. ADJOURNMENT
+

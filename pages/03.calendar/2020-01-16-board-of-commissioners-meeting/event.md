@@ -1,26 +1,21 @@
 ---
-title: Board of Commissioners Meeting
-subtitle: null
-author: null
+title: Board of Commissioners
+subtitle: Regular Monthly Meeting
+author: 
 content:
-  items: '@self.children'
+    items: '@self.children'
 child_type: article
-figure:
-  image: null
-  alt: null
-  title: null
-  caption: null
 taxonomy:
-  tag:
-  category:
+    tag:
+    category:
 date: 01/16/2020 14:00
 data:
-  event:
-    startDate: 01/16/2020 14:00
-    allDay: false
-    address:
-      addressRegion: OR
-      addressCountry: US
+    event:
+        startDate: 01/16/2020 14:00
+        allDay: false
+        address:
+            addressRegion: OR
+            addressCountry: US
 ---
 
 - at the Port Office
@@ -29,39 +24,39 @@ data:
 
 # AGENDA
 
-    I. CALL TO ORDER
+        I. CALL TO ORDER
 
-    II. Election of Officers
+        II. Election of Officers
 
-    III. CONSENT CALENDAR
+        III. CONSENT CALENDAR
 
-    A.   	 November 21, 2019 Regular Meeting and December 13 Special Meeting
-       Minutes
+        A.     	 November 21, 2019 Regular Meeting and December 13 Special Meeting
+             Minutes
 
-    B.    	November and December Financials
+        B.        	November and December Financials
 
-    IV. MANAGER’S REPORT
+        IV. MANAGER’S REPORT
 
-    V. PUBLIC COMMENT
+        V. PUBLIC COMMENT
 
-    VI. OLD BUSINESS
+        VI. OLD BUSINESS
 
-    A.   	Personnel Manual
+        A.     	Personnel Manual
 
-    VII. NEW BUSINESS
+        VII. NEW BUSINESS
 
-    A.  	Property Insurance
+        A.    	Property Insurance
 
-    B.  	Audit Recommendations
+        B.    	Audit Recommendations
 
-    C.       New Bank Account for Bond Funds
+        C.             New Bank Account for Bond Funds
 
-    D.   	Adoption of Resolution for New Bank Account
+        D.     	Adoption of Resolution for New Bank Account
 
-    E.   	Friends of the Port
+        E.     	Friends of the Port
 
-    F.  	Eckman Lake
+        F.    	Eckman Lake
 
-    VIII. COMMISSIONERS’ COMMENTS
+        VIII. COMMISSIONERS’ COMMENTS
 
-    IX. ADJOURNMENT
+        IX. ADJOURNMENT

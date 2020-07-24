@@ -3,16 +3,19 @@ title: Calendar
 subtitle: 'Meetings, Activites and Events around the Port of Alsea'
 author: /home
 collection:
-  name: Upcoming Events
-  showCount: true
+    name: Upcoming Events
+    showCount: true
 content:
     items: '@self.children'
     dateRange:
-      start: -1 month
+        start: -1 month
     # order:
       # by: 'header.data.event.startDate|date("Y-m-d")'
       # dir: desc
 child_type: event
+showcase:
+    display: true
+    action: Click here to see the full list
 ---
 
 - Regular meetings of the Board of Commissioners 

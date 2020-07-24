@@ -1,6 +1,7 @@
 ---
-title: 'Board of Commissioners Work Session'
-author: /home
+title: 'Board of Commissioners'
+subtitle: Work Session
+author: /roxie
 content:
     items: '@self.children'
 child_type: article
