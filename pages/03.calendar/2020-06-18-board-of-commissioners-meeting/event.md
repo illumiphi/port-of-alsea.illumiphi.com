@@ -6,8 +6,10 @@ content:
     items: '@self.children'
 child_type: article
 taxonomy:
-    category: [ Hearings ]
-    tag: [ budget ]
+    category: 
+        - Hearings
+    tag: 
+        - budget
 date: 06/01/2020
 data:
     event:

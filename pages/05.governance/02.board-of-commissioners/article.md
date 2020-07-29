@@ -7,9 +7,7 @@ content:
 child_type: article
 organization:
     description: ''
-featured_image: IMG_0055.jpg
 show_gallery: false
-featured: false
 ---
 
 - two year term

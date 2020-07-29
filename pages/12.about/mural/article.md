@@ -12,8 +12,6 @@ gallery:
     show: true
 taxonomy:
     tag:
-        # - showcase
-featured_image: Mural_01.jpg
 show_gallery: true
 ---
 

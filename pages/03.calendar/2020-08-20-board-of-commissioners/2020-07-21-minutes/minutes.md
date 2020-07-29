@@ -12,8 +12,10 @@ content:
 child_type: article
 date: 2020-07-21
 taxonomy:
-    category: [ Documents ]
-    tag: [ minutes ]
+    category: 
+        - Documents
+    tag: 
+        - minutes
 ---
 
 Thursday, August 20, 2020 02:08 PM at the Port Office

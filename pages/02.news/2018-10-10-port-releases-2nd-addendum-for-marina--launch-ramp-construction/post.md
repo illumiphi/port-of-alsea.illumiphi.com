@@ -1,7 +1,6 @@
 ---
 title: 'Port releases 2nd Addendum for Marina / Launch Ramp Construction'
 author: /home
-featured_image: Addendum-2.pdf
 show_gallery: true
 attachments:
     -

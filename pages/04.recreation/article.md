@@ -6,8 +6,6 @@ content:
 child_type: article
 taxonomy:
     tag:
-        - featured
-featured_image: 'misty kayakers.jpg'
 show_gallery: false
 ---
 

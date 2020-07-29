@@ -3,12 +3,8 @@ title: About
 author: /home
 content:
     items: '@self.children'
-    pagination: true
-    limit: 10
 child_type: article
-featured_image: 'Port Office Sign.jpg'
 show_gallery: true
-featured: false
 ---
 
 ## # About the Port
@@ -18,7 +14,7 @@ The Port District was formed in 1910 and includes the communities of Waldport, Y
 - marina
 - boat launch
 - moorage
-      
+
 ===
 
 Crabbing is among the best in the state, and the bay also offers excellent salmon fishing and clamming.   Public docks for crabbing, fishing, and moorage, a launch ramp, Robinson Park and picnic area, are among the facilities available in the Port area.  Many private marinas along the river provide similar services.

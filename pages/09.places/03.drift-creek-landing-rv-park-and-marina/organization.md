@@ -1,14 +1,14 @@
 ---
 title: Drift Creek Landing RV Park and Marina
-subtitle: null
+subtitle: 
 content:
   items: '@self.children'
 child_type: person
 figure:
-  image: null
-  alt: null
-  title: null
-  caption: null
+  image: 
+  alt: 
+  title: 
+  caption: 
 taxonomy:
   tag:
   category:
@@ -16,8 +16,8 @@ data:
   organization:
     '@type': Organization
     name: Drift Creek Landing RV Park and Marina
-    telephone: null
-    url: null
+    telephone: 
+    url: 
     email: ""
     location:
       geo:

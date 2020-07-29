@@ -1,16 +1,15 @@
 ---
 title: 'Capital Projects'
-media_order: proposed_marina-2.jpg
+subtitle: current activities at the port
+menu: Projects
 author: /home
 content:
     items: '@self.children'
 child_type: article
-featured_image: proposed_marina-2.jpg
 show_gallery: false
 taxonomy:
+    photon: showcase
     tag:
-        # - showcase
-featured: false
 ---
 
 Current Port of Alsea activities and projects

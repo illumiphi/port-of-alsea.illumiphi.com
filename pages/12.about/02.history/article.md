@@ -1,7 +1,6 @@
 ---
 title: History
 child_type: article
-featured: false
 show_gallery: true
 author: /home
 ---

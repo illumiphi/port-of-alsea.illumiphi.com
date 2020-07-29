@@ -4,7 +4,6 @@ author: /home
 show_gallery: true
 taxonomy:
     tag:
-        # - showcase
 event:
     description: ''
 ---

@@ -10,8 +10,10 @@ content:
     items: '@self.children'
 child_type: post
 taxonomy:
-    category: [ Meetings ]
-    tag: [ budget ]
+    category: 
+      - Meetings 
+    tag: 
+      - budget 
 show_gallery: false
 date: 2020-04-30
 data:

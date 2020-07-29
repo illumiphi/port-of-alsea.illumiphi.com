@@ -9,8 +9,10 @@ collection:
 content:
     items: '@self.children'
 taxonomy:
-    category: [ Documents ]
-    tag: [ Support ]
+    category: 
+        - Documents
+    tag: 
+        - Support
 show_gallery: true
 date: 2020-07-22
 ---

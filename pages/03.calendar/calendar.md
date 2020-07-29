@@ -13,6 +13,9 @@ content:
       # by: 'header.data.event.startDate|date("Y-m-d")'
       # dir: desc
 child_type: event
+taxonomy:
+    photon:
+        - showcase
 showcase:
     display: true
     action: Click here to see the full list

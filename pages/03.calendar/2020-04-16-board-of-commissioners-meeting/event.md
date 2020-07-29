@@ -6,8 +6,10 @@ content:
     items: '@self.children'
 child_type: article
 taxonomy:
-    category: [ Meetings ]
-    tag: [ BoC ]
+    category: 
+        - Meetings
+    tag: 
+        - BoC
 date: 04/16/2020 14:00
 data:
     event:

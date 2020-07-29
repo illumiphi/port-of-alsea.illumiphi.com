@@ -6,7 +6,6 @@ content:
 child_type: article
 taxonomy:
     tag:
-        - featured
 ---
 
  picnic tables

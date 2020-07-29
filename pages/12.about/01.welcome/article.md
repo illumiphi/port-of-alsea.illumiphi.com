@@ -15,10 +15,8 @@ content:
 child_type: article
 taxonomy:
     tag:
-        - showcase
 menu: Home
 show_gallery: true
-featured: false
 ---
 
 - marina

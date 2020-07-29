@@ -6,8 +6,10 @@ content:
     items: '@self.children'
 child_type: article
 taxonomy:
-    category: [ Event ]
-    tag: [ community ]
+    category: 
+        - Event
+    tag: 
+        - community
 date: 06/27/2020
 data:
     event:

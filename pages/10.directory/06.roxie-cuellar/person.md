@@ -4,13 +4,11 @@ author: /home
 show_gallery: true
 taxonomy:
     tag:
-        # - featured
 person:
     address:
         addressLocality: Waldport
         addressRegion: OR
         postalCode: '97394'
-featured: false
 ---
 
 ## Port Manager

@@ -11,8 +11,10 @@ content:
     items: '@self.children'
 child_type: article
 taxonomy:
-    category: [ Meetings ]
-    tag: [ BoC ]
+    category: 
+        - Meetings
+    tag: 
+        - BoC
 show_gallery: false
 date: 07/10/2020
 data:

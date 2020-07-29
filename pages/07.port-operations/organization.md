@@ -1,10 +1,10 @@
 ---
 title: 'Port Operations'
+subtitle: Managing the Port Facilities and other activities
 author: /home
 content:
     items: '@self.children'
 child_type: article
-featured_image: 'Port Office.jpg'
 show_gallery: true
 ---
 
