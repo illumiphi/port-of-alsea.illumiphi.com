@@ -6,8 +6,10 @@ author:
 taxonomies:
   - category
   - tag
+  - photon
+  - action
 metadata:
-  description: 'Oreogn port district covering the Alsea Bay and River corridor as well as the Yachats river'
+  description: 'Oregon port district covering the Alsea Bay and River corridor as well as the Yachats river'
 summary:
   enabled: true
   format: short
