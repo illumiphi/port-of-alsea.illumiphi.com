@@ -9,6 +9,8 @@ content:
     items: '@self.children'
 child_type: article
 taxonomy:
+    photon:
+        - featured
     category:
         - Capital Projects
 ---
