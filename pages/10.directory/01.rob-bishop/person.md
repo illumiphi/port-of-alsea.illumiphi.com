@@ -23,6 +23,8 @@ data:
             postalCode: '97394'
             addressCountry: US
 show_gallery: false
+taxonomy:
+    category: Commissioners
 ---
 
 Commissioner since 2011

@@ -2,8 +2,8 @@
 title: Board of Commissioners
 subtitle: 5 elected officials 
 author: /about
-collection:
-    children:
+sets:
+    default:
         name: Articles
         showCount: true
         showMenu: true
@@ -11,6 +11,8 @@ collection:
         name: Members
         showCount: false
         showMenu: false
+    events:
+        name: Upcoming Calendar
 content:
     items: '@self.children'
 members:
@@ -23,6 +25,9 @@ events:
         '@taxonomy.category': Commissioners
     filter:
         type: 'event'
+    dateRange:
+        start: -2 weeks
+        end: +3 months
 posts:
     items: 
         '@taxonomy.category': Commissioners

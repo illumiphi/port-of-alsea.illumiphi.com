@@ -2,14 +2,18 @@
 title: Board of Commissioners
 subtitle: Regular Monthly Meeting
 author: 
-content:
-    items: '@self.children'
-child_type: article
 taxonomy:
     category: 
-        - Meetings
+        - Commissioners
     tag: 
-        - BoC
+        - Meetings
+content:
+    items: '@self.children'
+taxonomy:
+    category: 
+        - Commissioners
+    tag: 
+        - Meetings
 date: 04/16/2020 14:00
 data:
     event:

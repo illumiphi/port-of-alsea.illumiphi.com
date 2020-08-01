@@ -2,12 +2,18 @@
 title: Board of Commissioners
 subtitle: Regular Monthly Meeting
 author: 
+sets:
+    default:
+        name: Attachments
+        showCount: false
+        showMenu: false
 content:
     items: '@self.children'
-child_type: article
 taxonomy:
-    tag: 
     category: 
+        - Commissioners
+    tag: 
+        - Meetings
 date: 10/17/2018 14:00
 data:
     event:

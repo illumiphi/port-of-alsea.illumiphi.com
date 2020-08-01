@@ -2,9 +2,13 @@
 title: 2020 Budget Hearing
 subtitle: Review and discussion of the Budget Committee's proposal
 author:
+sets:
+    default:
+        name: Attachments
+        showCount: false
+        showMenu: false
 content:
     items: '@self.children'
-child_type: article
 taxonomy:
     category: 
         - Hearings

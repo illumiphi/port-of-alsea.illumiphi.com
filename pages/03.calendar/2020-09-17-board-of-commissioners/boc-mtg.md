@@ -3,18 +3,19 @@ title: Board of Commissioners
 subtitle: Regular Monthly Meeting
 template: event
 author: /roxie
-collection:
-    name: Attachments
-    showCount: true
-    showMenu: true
+sets:
+    default:
+        name: Attachments
+        showCount: true
+        showMenu: true
 content:
     items: '@self.children'
 child_type: article
 taxonomy:
     category: 
-        - Meetings
+        - Commissioners
     tag: 
-        - BOC
+        - Meetings
 show_gallery: false
 date: 2020-07-22
 data:

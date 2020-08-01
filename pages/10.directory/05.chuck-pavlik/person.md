@@ -14,6 +14,8 @@ data:
             addressRegion: OR
             postalCode: '97394'
             addressCountry: US
+taxonomy:
+    category: Commissioners
 ---
 
 Commissioner since 2012

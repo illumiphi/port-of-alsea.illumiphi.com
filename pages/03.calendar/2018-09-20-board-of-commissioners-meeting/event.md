@@ -2,13 +2,19 @@
 title: Board of Commissioners
 subtitle: Regular Monthly Meeting
 author: /roxie
+sets:
+    default:
+        name: Attachments
+        showCount: false
+        showMenu: false
 content:
     items: '@self.children'
-child_type: article
-taxonomy:
-    tag:
-    category:
 date: 09/13/2018
+taxonomy:
+    category: 
+        - Commissioners
+    tag: 
+        - Meetings
 data:
     event:
         startDate: 09/20/2018 14:00

@@ -13,6 +13,8 @@ data:
           addressLocality: Waldport
           addressRegion: OR
           postalCode: '97394'
+taxonomy:
+    category: Commissioners
 ---
 
 
