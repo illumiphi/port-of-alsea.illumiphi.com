@@ -7,18 +7,18 @@
 % def: event_date="$(grep startDate *.md | awk '{$1=""; print $0}' | xargs -I{} date '+%A, %B %d, %Y %I:%m %p' --date="{}")"
 % def: summary="$event_date at the Port Office"
 ---
+template: article
 title: ${title}
 subtitle: ${subtitle}
-template: event
+date: ${post_date}
 author: ${author}
-collection:
-    name: Attachments
-    showCount: true
-    showMenu: true
+sets:
+    default
+        name: Attachments
+        showCount: true
+        showMenu: true
 content:
     items: '@self.children'
-child_type: article
-date: ${post_date}
 taxonomy:
     category: 
         - Documents

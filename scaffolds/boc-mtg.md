@@ -16,24 +16,24 @@
 % def: place_lat='44.4343779'
 % def: place_long='-124.0593175'
 ---
+template: event
 title: ${title}
 subtitle: ${subtitle}
-template: event
+date: ${post_date}
 author: ${author}
-collection:
-    name: Attachments
-    showCount: true
-    showMenu: true
+sets:
+    default:
+        name: Attachments
+        showCount: true
+        showMenu: true
 content:
     items: '@self.children'
-child_type: article
 taxonomy:
     category: 
         - ${category}
     tag: 
         - ${tag}
 show_gallery: false
-date: ${post_date}
 data:
     event:
         '@type': Event
