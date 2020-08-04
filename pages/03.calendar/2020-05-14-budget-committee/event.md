@@ -15,12 +15,11 @@ taxonomy:
     tag: 
       - budget 
 show_gallery: false
-date: 2020-04-30
+date: 04/30/2020
 data:
     event:
         '@type': Event
         startDate: 2020-05-14 17:30
-        endDate:
         allDay: false
         address:
             streetAddress:
@@ -38,7 +37,6 @@ The purpose of the meeting is to receive the budget message, make recommendation
 
 ## Related Documents
 Related documents can be acquired from the links below or copies can be picked up at the Port Office.
-- [Message to the Budget Committee with Budget Documents](Budget-Message-and-Budget-Documents.pdf)
 
 ## To Join the Teleconference
 - dial-in to 1-848-220-3300. (toll-free)

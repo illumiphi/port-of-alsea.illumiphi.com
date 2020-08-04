@@ -4,7 +4,7 @@ author: /home
 content:
     items: '@self.children'
 child_type: article
-date: '10/30/2018 05:30 pm'
+date: 10/23/2018
 data:
     event:
         startDate: '10/30/2018 05:30 pm'

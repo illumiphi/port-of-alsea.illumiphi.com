@@ -5,7 +5,7 @@ author: /roxie
 content:
     items: '@self.children'
 child_type: article
-date: '11/07/2018 09:30 am'
+date: 10/30/2018
 data:
     event:
         startDate: '11/07/2018 09:30 am'

@@ -2,17 +2,14 @@
 title: Port Marina Project postponed until 2020 In-water Work Season
 subtitle: Necessary permits were not issued in time
 author: null
+date: 11/1/2019
 content:
-  items: '@self.children'
-child_type: article
-figure:
-  image: null
-  alt: null
-  title: null
-  caption: null
+    items: '@self.children'
 taxonomy:
-  tag:
-  category:
+    tag:
+        - marina
+    category:
+        - Projects
 ---
 
 - Contractor requested rescheduling

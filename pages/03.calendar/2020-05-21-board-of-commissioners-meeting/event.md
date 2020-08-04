@@ -14,7 +14,7 @@ taxonomy:
         - Meetings
     tag: 
         - BoC
-date: 05/21/2020 14:00
+date: 05/14/2020
 data:
     event:
         startDate: 05/21/2020 14:00

@@ -10,10 +10,10 @@ taxonomy:
         - Event
     tag: 
         - community
-date: 06/27/2020
+date: 06/20/2020
 data:
     event:
-        startDate: 06/27/2020
+        startDate: 06/27/2020 10:00 AM
         allDay: true
         location:
             '@type': Place

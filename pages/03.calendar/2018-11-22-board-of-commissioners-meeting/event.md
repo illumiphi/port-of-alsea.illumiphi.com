@@ -9,7 +9,7 @@ sets:
         showMenu: false
 content:
     items: '@self.children'
-date: '11/22/2018 02:00 pm'
+date: 11/15/2018
 taxonomy:
     category: 
         - Commissioners

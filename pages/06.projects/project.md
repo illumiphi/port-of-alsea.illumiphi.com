@@ -8,7 +8,10 @@ content:
 child_type: article
 show_gallery: false
 taxonomy:
-    photon: showcase
+    category:
+        - Projects
+    photon: 
+        - showcase
     tag:
 ---
 

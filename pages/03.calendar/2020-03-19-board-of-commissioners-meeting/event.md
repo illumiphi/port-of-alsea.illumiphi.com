@@ -14,7 +14,7 @@ taxonomy:
         - Commissioners
     tag: 
         - Meetings
-date: 03/19/2020 14:00
+date: 03/19/2020
 data:
     event:
         startDate: 03/19/2020 14:00

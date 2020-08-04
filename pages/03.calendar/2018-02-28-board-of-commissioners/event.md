@@ -9,12 +9,12 @@ sets:
         showMenu: false
 content:
     items: '@self.children'
-date: '02/15/2018 02:00 pm'
+date: '02/07/2018'
 taxonomy:
     category: 
         - Commissioners
-    tag: 
         - Meetings
+    tag: 
 data:
     event:
         startDate: '02/15/2018 02:00 pm'

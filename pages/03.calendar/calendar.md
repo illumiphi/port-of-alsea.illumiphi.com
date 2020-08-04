@@ -7,8 +7,8 @@ collection:
     showCount: true
 content:
     items: '@self.children'
-    dateRange:
-        start: -1 month
+    # dateRange:
+    #   start: -1 month
     # order:
       # by: 'header.data.event.startDate|date("Y-m-d")'
       # dir: desc

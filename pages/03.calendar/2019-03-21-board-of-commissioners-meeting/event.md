@@ -9,7 +9,7 @@ sets:
         showMenu: false
 content:
     items: '@self.children'
-date: '03/21/2019 02:00 pm'
+date: 03/11/2019
 taxonomy:
     category: 
         - Commissioners
@@ -25,31 +25,9 @@ data:
             addressCountry: US
 ---
 
-Port Office
+The Port of Alsea Board of Commissioners will hold its regular board meeting on Thursday, March 21, 2019, at 2:00 PM at the Port of Alsea Office, 365 Port Street, Waldport, Oregon 97394. Topic of discussion will include the review the final contractor’s bid for the marina construction for approval.
 
 ===
 
-# AGENDA
+Regular meetings are usually scheduled on the third Thursday of every month at 2:00 PM, either in Yachats or at the Port of Alsea office in Waldport, Oregon 97394. Both locations are accessible to people with disabilities. A request for an interpreter for the hearing impaired or for other accommodations for persons with disabilities should be made at least 48 hours in advance of the meeting to the Port of Alsea office at 541-563-3872.
 
-## Call to Order
-
-## Consent Calendar
-
- - Approval of Regular Meeting Minutes - February 2019
- - February Financials
-
-
-## Public Comment Period
-
-## Old Business
-
-- Sale of the Bonds
-- RFP on the Marina Project
-- RFP Schedule and Procedures
-- Permit Process
-
-## New Business
-
-## Commissioner's Comments
-
-## Adjournment

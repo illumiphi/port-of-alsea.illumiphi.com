@@ -8,7 +8,6 @@ collection:
     showMenu: false
 content:
     items: '@self.children'
-child_type: article
 date: 05/23/2019
 ---
 

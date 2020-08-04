@@ -14,7 +14,7 @@ taxonomy:
         - Commissioners
     tag: 
         - Meetings
-date: 01/17/2019 14:00
+date: 01/10/2019
 data:
     event:
         startDate: 01/17/2019 14:00

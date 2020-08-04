@@ -12,7 +12,6 @@ child_type: article
 taxonomy:
     category:
         - ODFW
-        - ODFW
 ---
 
 - effective Jan 1, 2020

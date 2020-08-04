@@ -1,23 +1,24 @@
 ---
 title: Special Meeting
-subtitle: 
+subtitle: Policy Review with Board of Commissioners
 author: 
 content:
     items: '@self.children'
-child_type: article
 taxonomy:
     tag: 
     category: 
-date: 06/06/2018 14:00
+        - Commissioners
+        - Meetings
+date: 06/01/2018
 data:
     event:
-        startDate: 06/06/2018 14:00
+        startDate: 06/06/2018 10:00
         allDay: false
         address:
             addressRegion: OR
             addressCountry: US
 ---
 
-Special Meeting of the Board of Commissioners
+The purpose of the special meeting to review  Worker’s Compensation for volunteers working on Port projects.
 
 ===

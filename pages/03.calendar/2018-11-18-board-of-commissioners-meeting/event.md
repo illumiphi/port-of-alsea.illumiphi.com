@@ -9,7 +9,7 @@ sets:
         showMenu: false
 content:
     items: '@self.children'
-date: '11/18/2018 2pm'
+date: 11/14/2018
 taxonomy:
     category: 
         - Commissioners
@@ -17,7 +17,7 @@ taxonomy:
         - Meetings
 data:
     event:
-        startDate: '11/18/2018 2pm'
+        startDate: '11/15/2018 2pm'
         allDay: false
         address:
             addressRegion: OR

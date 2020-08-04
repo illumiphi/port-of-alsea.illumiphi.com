@@ -17,7 +17,7 @@ taxonomy:
     tag: 
         - Meetings
 show_gallery: false
-date: 2020-07-22
+date: 07/22/2020
 data:
     event:
         '@type': Event

@@ -1,6 +1,9 @@
 ---
 title: Recreation
 author: /home
+sets:
+    default:
+        name: Articles
 content:
     items: '@self.children'
 child_type: article
