@@ -29,15 +29,15 @@ home:
   alias: /home
   hide_in_urls: false
 pages:
-  theme: photon
+  theme: photon-child
   order:
     by: default
     dir: asc
   list:
     count: 20
   dateformat:
-    default: 'Y-m-d H:i'
-    short: 'd-m-y G:i'
+    default: 'm/d/Y H:i'
+    short: 'm/d/Y H:i'
     long: 'l jS \of F g:i A'
   publish_dates: true
   process:
