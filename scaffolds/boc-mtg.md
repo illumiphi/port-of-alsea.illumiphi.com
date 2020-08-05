@@ -3,9 +3,7 @@
 % def: title='Board of Commissioners'
 % def: subtitle='Regular Monthly Meeting'
 % def: author='/roxie'
-% def: post_date=$(date +%Y-%m-%d)
-% def: category="Meetings"
-% def: tag="BOC"
+% def: post_date=$(date +%m/%d/%Y)
 % def: start_dt="$(date +%Y-%m-%d) 14:00"
 % def: place_name='Port Office'
 % def: place_street='365 Port St #A'
@@ -30,9 +28,9 @@ content:
     items: '@self.children'
 taxonomy:
     category: 
-        - ${category}
+        - Meetings
     tag: 
-        - ${tag}
+        - Commissioners
 show_gallery: false
 data:
     event:

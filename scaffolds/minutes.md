@@ -1,10 +1,9 @@
 % name: Minutes
-% folder: date
 % def: title='Minutes'
 % def: subtitle="Regular Meeting of the Port of Alsea Board of Commissioners"
 % def: author="/roxie"
-% def: post_date=$(date +%Y-%m-%d)
-% def: event_date="$(grep startDate *.md | awk '{$1=""; print $0}' | xargs -I{} date '+%A, %B %d, %Y %I:%m %p' --date="{}")"
+% def: post_date=$(date +%m/%d/%Y)
+% def: event_date="$(grep startDate *.md | awk '{$1=""; print $0}' | xargs -I{} date '+%A, %B %d, %Y %I:%M %p' --date="{}")"
 % def: summary="$event_date at the Port Office"
 ---
 template: article
@@ -13,7 +12,7 @@ subtitle: ${subtitle}
 date: ${post_date}
 author: ${author}
 sets:
-    default
+    default:
         name: Attachments
         showCount: true
         showMenu: true
