@@ -1,5 +1,6 @@
 @charset "UTF-8";
 /* photon ✴ Theme Components and Templates */
+/* media *****************************/
 article > figure {
   background: none;
   max-height: 40vh;
@@ -52,12 +53,12 @@ article.excerpt .more {
   align-self: flex-end;
 }
 
-@media (min-width: 72em) {
+@media (min-width: 96em) {
   article.showcase {
     font-size: 1.2em;
   }
 }
-@media (min-width: 108em) {
+@media (min-width: 180em) {
   article.showcase {
     font-size: 1.4em;
   }
