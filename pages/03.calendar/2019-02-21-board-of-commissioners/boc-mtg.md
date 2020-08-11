@@ -2,7 +2,7 @@
 template: event
 title: Board of Commissioners
 subtitle: Regular Monthly Meeting
-date: 02/07/2018
+date: 02/07/2019
 author: /roxie
 sets:
     default:
@@ -13,9 +13,9 @@ content:
     items: '@self.children'
 taxonomy:
     category: 
-        - Meetings
-    tag: 
         - Commissioners
+    tag: 
+        - Meetings
 show_gallery: false
 data:
     event:

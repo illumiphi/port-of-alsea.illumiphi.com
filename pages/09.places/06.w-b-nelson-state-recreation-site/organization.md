@@ -10,7 +10,7 @@ content:
     items: '@self.children'
 child_type: person
 taxonomy:
-    category:
+    tag:
         - Hiking
         - Picnicking
         - Kayaking

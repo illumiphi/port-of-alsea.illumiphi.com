@@ -2,33 +2,28 @@
 title: Drift Creek Landing RV Park and Marina
 subtitle: 
 content:
-  items: '@self.children'
-child_type: person
-figure:
-  image: 
-  alt: 
-  title: 
-  caption: 
+    items: '@self.children'
 taxonomy:
-  tag:
-  category:
+    tag:
+        - RV
+    category:
 data:
-  organization:
-    '@type': Organization
-    name: Drift Creek Landing RV Park and Marina
-    telephone: 
-    url: 
-    email: ""
-    location:
-      geo:
-        latitude:
-        longitude:
-      address:
-        streetAddress: "3851 Alsea Highway"
-        addressLocality: Waldport
-        addressRegion: OR
-        postalCode: "97394"
-        addressCountry: US
+    organization:
+        '@type': Organization
+        name: Drift Creek Landing RV Park and Marina
+        telephone: 
+        url: 
+        email: ""
+        location:
+            geo:
+                latitude:
+                longitude:
+            address:
+                streetAddress: "3851 Alsea Highway"
+                addressLocality: Waldport
+                addressRegion: OR
+                postalCode: "97394"
+                addressCountry: US
 ---
 
 CLOSED?

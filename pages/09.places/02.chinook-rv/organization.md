@@ -2,35 +2,30 @@
 title: Chinook RV Park
 subtitle: ""
 content:
-  items: '@self.children'
+    items: '@self.children'
 child_type: person
-figure:
-  image: null
-  alt: null
-  title: null
-  caption: null
 taxonomy:
-  tag:
-  category:
-  - Camping
-  - RV
-  - Lodging
+    tag:
+        - Camping
+        - RV
+        - Lodging
+    category:
 data:
-  organization:
-    '@type': Organization
-    name: null
-    telephone: 541-563-3485
-    url: null
-    location:
-      geo:
-        latitude:
-        longitude:
-      address:
-        streetAddress: 3299 Alsea Highway
-        addressLocality: Waldport
-        addressRegion: OR
-        postalCode: "97394"
-        addressCountry: US
+    organization:
+        '@type': Organization
+        name: null
+        telephone: 541-563-3485
+        url: null
+        location:
+            geo:
+                latitude:
+                longitude:
+            address:
+                streetAddress: 3299 Alsea Highway
+                addressLocality: Waldport
+                addressRegion: OR
+                postalCode: "97394"
+                addressCountry: US
 ---
 
 

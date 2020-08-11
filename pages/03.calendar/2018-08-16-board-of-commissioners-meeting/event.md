@@ -12,17 +12,26 @@ content:
 date: 08/09/2018
 taxonomy:
     category: 
-        - Meetings
         - Commissioners
     tag: 
+        - Meetings
 data:
     event:
         startDate: '08/16/2018 02:00 pm'
         allDay: false
-        address:
-            addressRegion: OR
-            addressCountry: US
-        location: 'Port Office'
+        location:
+            '@type': Place
+            name: Port Office
+            address:
+                streetAddress: 365 Port St #A
+                addressLocality: Waldport
+                addressRegion: OR
+                postalCode: 97394
+                addressCountry: US
+            geo:
+                '@type': GeoCoordinates
+                latitude: 44.4343779
+                longitude:  -124.0593175
 ---
 
 - Port Office

@@ -14,7 +14,7 @@ figure:
 taxonomy:
     category:
         - Marina
-        - 'Board of Commissioners'
+        - Commissioners
 ---
 
 Astoria

@@ -13,9 +13,9 @@ content:
     items: '@self.children'
 taxonomy:
     category: 
-        - Meetings
         - Commissioners
     tag: 
+        - Meetings
         - budget
 show_gallery: false
 data:

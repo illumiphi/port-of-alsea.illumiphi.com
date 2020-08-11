@@ -11,22 +11,28 @@ content:
 child_type: post
 taxonomy:
     category: 
-      - Meetings 
+      - Budget 
     tag: 
-      - budget 
+      - Meetings 
 show_gallery: false
 date: 04/30/2020
 data:
     event:
         '@type': Event
-        startDate: 2020-05-14 17:30
-        allDay: false
-        address:
-            streetAddress:
-            addressLocality:
-            addressRegion: OR
-            postalCode:
-            addressCountry: US
+        startDate: 2020-05-14 14:00
+        location:
+            '@type': Place
+            name: Port Office
+            geo:
+                '@type': GeoCoordinates
+                latitude: 44.4343779,
+                longitude:  -124.0593175 
+            address:
+                streetAddress: 365 Port St #A
+                addressLocality: Waldport
+                addressRegion: OR
+                postalCode: 97394
+                addressCountry: US
 ---
 
 A public meeting of the Port of Alsea Budget Committee to discuss the budget for the fiscal year July 1, 2020 through June 30, 2021, will be held by teleconferencing on Thursday May 14, 2020 at 5:30pm.

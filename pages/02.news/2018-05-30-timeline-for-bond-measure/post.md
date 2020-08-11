@@ -12,7 +12,7 @@ taxonomy:
     photon:
         - featured
     category:
-        - Capital Projects
+        - Projects
 ---
 
 Updates on the Port of Alsea Bond Measure Projects

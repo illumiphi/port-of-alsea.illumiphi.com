@@ -1,6 +1,7 @@
 ---
 title: 'Port Operations'
 subtitle: Managing the Port Facilities and other activities
+menu: Operations
 author: /home
 content:
     items: '@self.children'

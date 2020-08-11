@@ -13,9 +13,9 @@ content:
     items: '@self.children'
 taxonomy:
     category:
-        - Meetings
-    tag:
         - Commissioners
+    tag:
+        - Meetings
 show_gallery: false
 data:
     event:

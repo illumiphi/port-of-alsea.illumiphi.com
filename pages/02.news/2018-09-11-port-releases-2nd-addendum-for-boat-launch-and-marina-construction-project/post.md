@@ -12,7 +12,6 @@ content:
     items: '@self.children'
 taxonomy:
     category: 
-        - 
     tag: 
         - announcements
 show_gallery: true

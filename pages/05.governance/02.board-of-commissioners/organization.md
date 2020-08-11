@@ -37,7 +37,6 @@ taxonomy:
     category:
         - Commissioners
     tag:
-        - 
 show_gallery: false
 data:
     organization:

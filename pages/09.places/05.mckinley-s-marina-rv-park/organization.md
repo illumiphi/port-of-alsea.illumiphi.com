@@ -11,10 +11,10 @@ figure:
   caption: null
 taxonomy:
   tag:
+      - Camping
+      - Lodging
+      - RV
   category:
-  - Camping
-  - RV Park
-  - Lodging
 data:
   organization:
     '@type': Organization

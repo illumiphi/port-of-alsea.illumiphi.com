@@ -1,0 +1,229 @@
+.
+├── 2018-02-28-board-of-commissioners
+│   ├── 01.february-2018-financials
+│   │   ├── 2018-02-financials.pdf
+│   │   └── attachment.md
+│   └── event.md
+├── 2018-03-18-board-of-commissioners-meeting
+│   ├── 01.agenda
+│   │   ├── 03.15.2018 Agenda.docx
+│   │   └── agenda.md
+│   ├── 02.memorial-bench-application
+│   │   ├── 03.15.2018-Memorial-Bench-Application.pdf
+│   │   └── attachment.md
+│   ├── 03.march-2018-financials
+│   │   ├── 03.2018-March-Financial.pdf
+│   │   └── attachment.md
+│   ├── 04.minutes
+│   │   ├── 03.15.2018 RM Minutes.docx
+│   │   └── minutes.md
+│   └── event.md
+├── 2018-04-19-board-of-commissioners-meeting
+│   ├── 01.agenda
+│   │   ├── 04.19.2018 Agenda.docx
+│   │   └── agenda.md
+│   ├── 02.manager-report
+│   │   ├── 2018-04-19-managers-report.docx
+│   │   └── attachment.md
+│   ├── 03.financials
+│   │   ├── 2018-04-financials.pdf
+│   │   └── attachment.md
+│   ├── 04.minutes
+│   │   ├── 04.19.2018 RM Minutes.docx
+│   │   └── minutes.md
+│   └── event.md
+├── 2018-05-23-board-of-commissioners-meeting
+│   ├── 01.agenda
+│   │   ├── 05.23.2018 Agenda.docx
+│   │   └── agenda.md
+│   ├── 02.financials
+│   │   ├── 2018-05-Financials.pdf
+│   │   └── attachment.md
+│   ├── 03.budget-resolution
+│   │   ├── attachment.md
+│   │   └── Budget-Resolution-FY-2018-2019.pdf
+│   ├── 04.minutes
+│   │   ├── 05.23.2018 RM Minutes.docx
+│   │   └── minutes.md
+│   └── event.md
+├── 2018-06-06-special-meeting
+│   ├── 01.minutes
+│   │   ├── 06.06.2018 Special Meeting Minutes.docx
+│   │   └── minutes.md
+│   └── event.md
+├── 2018-06-28-board-of-commissioners-meeting
+│   ├── 01.agenda
+│   │   ├── 06.28.2018 RM Agenda.docx
+│   │   └── agenda.md
+│   ├── 02.citizen-review-committee-application-form
+│   │   ├── 06.28.2018-Citizen-Review-Committee-Application-Form.docx
+│   │   └── attachment.md
+│   ├── 03.list-of-applications-for-review-committee
+│   │   ├── 06.28.2018-LIST-OF-APPLICANTS-FOR-CITIZENS-REVIEW-COMMITTEE.docx
+│   │   └── attachment.md
+│   ├── 04.draft-resolution-adopting-findings
+│   │   ├── 06.18.2018-Resolution-Adopting-Findings.docx
+│   │   └── attachment.md
+│   ├── 05.draft-resolution-authorizing-bond-sale
+│   │   ├── 06.28.2018-Resolution-Authorizing-Bond-Sale.DOCX
+│   │   └── attachment.md
+│   ├── 06.minutes
+│   │   ├── 06.28.2018 RM Minutes.docx
+│   │   └── minutes.md
+│   └── event.md
+├── 2018-07-26-board-of-commissioners-meeting
+│   ├── 01.agenda
+│   │   ├── 07.26.2018 RM Agenda.docx
+│   │   └── agenda.md
+│   ├── 02.financials
+│   │   ├── 2018-07-financials.pdf
+│   │   └── financials.md
+│   ├── 03.draft-resolution
+│   │   ├── 07.19.2018-Resolution-18-06-26-Adopting-Findings-Granting-Exeption-from-competitive-Bidding.docx
+│   │   └── attachment.md
+│   ├── 04.minutes
+│   │   ├── 07.26.2018 RM Minutes.docx
+│   │   └── minutes.md
+│   └── event.md
+├── 2018-08-16-board-of-commissioners-meeting
+│   ├── 01.agenda
+│   │   ├── 08.16.2018 Agenda RM Agenda.docx
+│   │   └── agenda.md
+│   ├── 02.financials
+│   │   ├── 2018-07-financials.pdf
+│   │   └── financials.md
+│   ├── 03.minutes
+│   │   ├── 08.16.2018 RM Minutes.docx
+│   │   └── minutes.md
+│   └── event.md
+├── 2018-08-31-board-of-commissioners
+│   └── boc-mtg.md
+├── 2018-09-05-board-of-commissioners
+│   └── boc-mtg.md
+├── 2018-09-20-board-of-commissioners-meeting
+│   ├── 01.agenda
+│   │   ├── 09.20.2018 RM Agenda[5714].docx
+│   │   └── agenda.md
+│   ├── 02.financials
+│   │   ├── 2018-08-financials.pdf
+│   │   └── financials.md
+│   ├── 03.balance
+│   │   ├── 09-18-2018-Balance.pdf
+│   │   └── financials.md
+│   ├── 04.minutes
+│   │   ├── 09.20.2018 RM Minutes[6923].docx
+│   │   └── minutes.md
+│   └── event.md
+├── 2018-10-11-special-meeting
+│   ├── 01.minutes
+│   │   ├── 10.11.2018-minutes.docx
+│   │   └── minutes.md
+│   └── event.md
+├── 2018-10-16-board-of-commissioners
+│   └── boc-mtg.md
+├── 2018-10-17-board-of-commissioners-meeting
+│   ├── 01.minutes
+│   │   ├── 10.17.2018 RM Minutes[9175].docx
+│   │   └── minutes.md
+│   └── event.md
+├── 2018-10-30-public-comment-meeting
+│   └── event.md
+├── 2018-11-07-board-of-commissioners-work-session
+│   ├── 01.agenda
+│   │   ├── 11.07.2018 SM Agenda[6852].docx
+│   │   └── agenda.md
+│   ├── 02.minutes
+│   │   ├── 11.07.2018 SM Minutes[9176].docx
+│   │   └── minutes.md
+│   └── event.md
+├── 2018-11-18-board-of-commissioners-meeting
+│   ├── 01.agenda
+│   │   ├── 11.15.2018 Agenda[6921].docx
+│   │   └── agenda.md
+│   ├── 02.financials
+│   │   ├── 10.2018-October-Financials.docx
+│   │   └── financials.md
+│   ├── 03.minutes
+│   │   ├── 11.15.2018 RM Minutes. docx[9177].docx
+│   │   └── minutes.md
+│   └── event.md
+├── 2018-11-22-board-of-commissioners
+│   └── event.md
+├── 2019-01-17-board-of-commissioners
+│   ├── 01.agenda
+│   │   ├── 01.17.2019 Agenda[9179].docx
+│   │   └── agenda.md
+│   ├── 01.financials
+│   │   ├── 2018-12-financials.pdf
+│   │   └── article.md
+│   └── event.md
+├── 2019-02-21-board-of-commissioners
+│   └── boc-mtg.md
+├── 2019-03-08-board-of-commissioners
+│   └── boc-mtg.md
+├── 2019-03-21-board-of-commissioners
+│   ├── 01.agenda
+│   │   └── agenda.md
+│   └── event.md
+├── 2019-04-18-board-of-commissioners
+│   ├── 01.manager-report
+│   │   ├── 2019-04-11-Managers-Report.docx
+│   │   └── attachment.md
+│   ├── 02.financials
+│   │   ├── 2019-03-financials.pdf
+│   │   └── financials.md
+│   └── event.md
+├── 2019-05-30-board-of-commissioners
+│   ├── 01.agenda
+│   │   └── agenda.md
+│   └── boc-mtg.md
+├── 2019-05-30-budget-hearing
+│   ├── 01.2019-budget
+│   │   ├── 2019-budget.pdf
+│   │   └── attachment.md
+│   └── boc-mtg.md
+├── 2019-10-10-board-of-commissioners
+│   └── boc-mtg.md
+├── 2020-01-16-board-of-commissioners
+│   ├── 01.agenda
+│   │   ├── 01.16, 2020 RM Agenda[17820].docx
+│   │   └── agenda.md
+│   ├── 02.minutes
+│   │   ├── 01.16.20 RM Minutes.docx
+│   │   └── minutes.md
+│   └── event.md
+├── 2020-02-20-board-of-commissioners
+│   ├── 01.agenda
+│   │   ├── agenda.md
+│   │   └── February-20-2020-RM-Agenda.docx
+│   ├── 02.minutes
+│   │   ├── 02.20.2020 RM Minutes.docx
+│   │   └── minutes.md
+│   └── event.md
+├── 2020-03-19-board-of-commissioners
+│   └── event.md
+├── 2020-04-16-board-of-commissioners
+│   ├── 01.minutes
+│   │   ├── 04.16.2020 RM Minutes.docx
+│   │   └── minutes.md
+│   └── event.md
+├── 2020-05-14-budget-committee
+│   ├── 01.budget-message
+│   │   ├── attachment.md
+│   │   └── Budget-Message-and-Budget-Documents.pdf
+│   └── event.md
+├── 2020-05-21-board-of-commissioners
+│   └── event.md
+├── 2020-06-18-budget-hearing
+│   ├── event.md
+│   └── Port-of-Alsea-2020-Budget-Summary.pdf
+├── 2020-06-27-kids-fishing-derby
+│   └── event.md
+├── 2020-07-16-board-of-commissioners
+│   └── boc-mtg.md
+├── 2020-08-20-board-of-commissioners
+│   └── boc-mtg.md
+├── calendar.md
+└── port-calendar.txt
+
+87 directories, 139 files

@@ -5,14 +5,29 @@ content:
     items: '@self.children'
 child_type: article
 date: 10/23/2018
+taxonomy:
+    category:
+        - Projects
+    tag:
+        - Meetings
 data:
     event:
         startDate: '10/30/2018 05:30 pm'
         endDate: '10/30/2018 07:00 pm'
         allDay: false
-        address:
-            addressRegion: OR
-            addressCountry: US
+        location:
+            '@type': Place
+            name: Port Office
+            address:
+                streetAddress: 365 Port St #A
+                addressLocality: Waldport
+                addressRegion: OR
+                postalCode: 97394
+                addressCountry: US
+            geo:
+                '@type': GeoCoordinates
+                latitude: 44.4343779
+                longitude:  -124.0593175
 ---
 
 The Port of Alsea is also seeking input now from the port facility users on what they would like to see in the new marina design.

@@ -9,13 +9,10 @@ content:
     items: '@self.children'
 child_type: article
 taxonomy:
-    category:
+    tag:
         - Camping
-        - 'RV & Lodging'
-        - 'Service & Retail'
-        - Camping
-        - 'RV & Lodging'
-        - 'Service & Retail'
+        - RV
+        - Lodging
 data:
     organization:
         '@type': Organization
