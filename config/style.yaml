@@ -2,7 +2,7 @@ color:
   key:
     hue: 215
   1:
-    hueOffset: -150
+    hueOffset: 44
   2:
     hueOffset: -44
   saturation: 33
@@ -15,7 +15,7 @@ color:
   foreground: '#333'
   background: '#EFEFEF'
 font: Lato
-font_display: 'Bree Serif'
+font_display: Lato
 font_code: monospace
 header_height: 9em
 fitz: .5em

@@ -29,7 +29,7 @@ home:
   alias: /home
   hide_in_urls: false
 pages:
-  theme: photon-child
+  theme: photon
   order:
     by: default
     dir: asc
@@ -147,7 +147,7 @@ log:
   syslog:
     facility: local6
 debugger:
-  enabled: true
+  enabled: false
   shutdown:
     close_connection: true
   twig: true
