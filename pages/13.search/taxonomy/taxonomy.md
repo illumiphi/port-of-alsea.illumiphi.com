@@ -8,7 +8,6 @@ collection:
     showMenu: false
 content:
     items: '@root.descendants'
-child_type: article
 ---
 
 - filter all pages by taxonomies

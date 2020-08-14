@@ -1,6 +1,7 @@
 ---
 title: Port of Alsea 
 subtitle: 'everything you need to know to enjoy the bay'
+menu: Home
 author: /about
 collection:
     name: 'Recent Updates'
@@ -12,11 +13,9 @@ content:
         by: date
         dir: desc
     limit: 10
-child_type: article
 taxonomy:
     photon:
         - showcase
-menu: Home
 show_gallery: true
 ---
 
