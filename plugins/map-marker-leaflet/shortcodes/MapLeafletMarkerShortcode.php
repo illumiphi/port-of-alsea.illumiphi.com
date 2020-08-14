@@ -11,7 +11,7 @@ class MapLeafletMarkerShortcode extends Shortcode
             $twig = $this->grav['twig'];
             // process any twig variables in the markercode
             $s = $twig->processString($s);
-            $s = preg_replace('/\\<\\/?p.*?\\>|\\n|\\s/i','',$s);
+            $s = preg_replace('/\\<\\/?p.*?\\>/i','',$s);
             $json = json_decode( html_entity_decode($s) );
             if ( $json == Null || count($json) < 1)  {
                 return Null; // Not valid json or empty array, so retun nothing. Only map will be shown
@@ -20,10 +20,10 @@ class MapLeafletMarkerShortcode extends Shortcode
             foreach ($params as $k => $v){
                 if (is_string($v)) $params[$k] = $twig->processString($v);
             }
-            $iDef = isset($params['icon'])?:'';
+            $iDef = isset($params['icon']) ?: '';
             $dDef = array_key_exists('draggable', $params) && (empty($params['draggable'])  || $params['draggable'] == 'true' );
-            $icDef = isset($params['iconColor'])?$params['iconColor']:'white';
-            $mDef = isset($params['markerColor'])?$params['markerColor']:'blue';
+            $icDef = isset($params['iconColor']) ? $params['iconColor'] : 'white';
+            $mDef = isset($params['markerColor']) ? $params['markerColor'] : 'blue';
             $tDef = '';
             $sDef = array_key_exists('spin', $params) && (empty($params['spin'])  || $params['spin'] == 'true' );
             $mks = [];
