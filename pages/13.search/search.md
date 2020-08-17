@@ -3,6 +3,9 @@ title: Search
 author: /home
 content:
     # items: '@root.descendants'
+taxonomy:
+    photon: 
+        - header
 show_gallery: false
 ---
 

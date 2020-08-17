@@ -15,6 +15,8 @@ taxonomy:
         - Commissioners
     tag: 
         - Meetings
+    photon:
+        - featured
 show_gallery: false
 date: 07/10/2020
 data:

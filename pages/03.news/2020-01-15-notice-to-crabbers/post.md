@@ -2,12 +2,7 @@
 title: 'Notice to Crabbers'
 subtitle: 'ODFW now requires marked buoys'
 author: /home
-collection:
-    name: Articles
-    showCount: false
-    showMenu: false
-content:
-    items: '@self.children'
+date: 01/01/2020
 taxonomy:
     tag:
         - ODFW
