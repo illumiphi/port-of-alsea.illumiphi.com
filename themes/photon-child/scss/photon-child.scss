@@ -1,5 +1,5 @@
 /* photon ✴ Theme Components and Templates */
-@import '../../photon/scss/media';
+// @import '../../photon/scss/media';
 
 @import 'articles/article';
 @import 'articles/article-excerpt';
@@ -36,71 +36,5 @@ body {
       }
     }
   }
-
-  @include media-bp(3) {
-    // display: flex;
-
-    > header {
-      // flex-direction: row;
-      // height: var(--header-height);
-
-      > .logo {
-        img {
-          // height:4em;
-        }
-      }
-      > nav {
-
-        // padding: 1em 0;
-
-        // flex-flow: row wrap;
-        // justify-content: center;
-
-        a {
-          // flex-flow: row;
-
-          // text-align: center;
-        }
-
-      }
-    }
-  }
-
 }
 
-body.home {
-
-  @include media-bp(3) {
-    // display: flex;
-
-    > header {
-      // flex-direction: row;
-
-      > .logo {
-        img {
-          // height:8em;
-        }
-      }
-      > nav {
-
-        // padding: 1em 0;
-
-        // flex-flow: row wrap;
-        // justify-content: center;
-
-        a {
-          // flex-flow: row;
-          // text-align: center;
-        }
-
-      }
-    }
-
-    > .showcase {
-      // height: calc(100vh - var(--header-height) - (var(--fitz-2) * 3));
-
-    }
-
-  }
-
-}
