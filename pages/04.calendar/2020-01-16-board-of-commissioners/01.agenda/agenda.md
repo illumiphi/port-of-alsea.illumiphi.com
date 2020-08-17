@@ -1,6 +1,6 @@
 ---
 template: article
-title: Agenda
+title: January 2020 Agenda
 subtitle: Regular Meeting of the Port of Alsea Board of Commissioners
 date: 01/10/2020
 author: /roxie

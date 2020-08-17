@@ -1,6 +1,6 @@
 ---
 template: event
-title: Board of Commissioners
+title: June 2020 Board of Commissioners
 subtitle: Special Meeting
 date: 06/03/2020
 author: /roxie
@@ -13,9 +13,9 @@ content:
     items: '@self.children'
 taxonomy:
     category: 
-        - Meetings
-    tag: 
         - Commissioners
+    tag: 
+        - Meetings
 show_gallery: false
 data:
     event:

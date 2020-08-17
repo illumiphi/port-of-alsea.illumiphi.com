@@ -1,6 +1,6 @@
 ---
 template: article
-title: Minutes
+title: June 2020 Minutes
 subtitle: Special Meeting of the Port of Alsea Board of Commissioners
 date: 06/21/2020
 author: /roxie

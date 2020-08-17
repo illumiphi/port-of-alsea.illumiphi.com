@@ -1,6 +1,6 @@
 ---
-title: 'Board of Commissioners'
-subtitle: Work Session
+title: November 2018 Work Session
+subtitle: Board of Commissioners
 author: /roxie
 content:
     items: '@self.children'

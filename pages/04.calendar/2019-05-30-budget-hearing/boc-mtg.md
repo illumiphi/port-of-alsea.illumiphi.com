@@ -1,6 +1,6 @@
 ---
 template: event
-title: Budget Hearing
+title: 2019 Budget Hearing
 subtitle: for Fiscal Year beginning July 2019
 date: 05/15/2019
 author: /roxie

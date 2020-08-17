@@ -1,8 +1,7 @@
 ---
 title: Port of Alsea 
-subtitle: 'everything you need to know to enjoy the bay'
+subtitle: Serving the Alsea and Yachats waterways of the Oregon Coast
 menu: Home
-author: /about
 collection:
     name: 'Recent Updates'
     showCount: false

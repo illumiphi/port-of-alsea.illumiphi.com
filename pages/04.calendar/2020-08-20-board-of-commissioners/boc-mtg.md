@@ -1,5 +1,5 @@
 ---
-title: Board of Commissioners
+title: August 2020 Board of Commissioners
 subtitle: Regular Monthly Meeting
 template: event
 author: /roxie

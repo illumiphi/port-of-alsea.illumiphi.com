@@ -1,5 +1,5 @@
 ---
-title: Board of Commissioners
+title: October 2018 Board of Commissioners
 subtitle: Regular Monthly Meeting
 author: 
 sets:

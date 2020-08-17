@@ -1,5 +1,5 @@
 ---
-title: Board of Commissioners
+title: July 2018 Board of Commissioners
 subtitle: Regular Monthly Meeting
 authol: /roxie
 sets:

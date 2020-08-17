@@ -1,6 +1,6 @@
 ---
 template: event
-title: Board of Commissioners
+title: February 2019 Board of Commissioners
 subtitle: Regular Monthly Meeting
 date: 02/07/2019
 author: /roxie

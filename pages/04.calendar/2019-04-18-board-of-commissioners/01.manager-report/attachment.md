@@ -1,6 +1,6 @@
 ---
 template: article
-title: Manager Report
+title: 2019 Manager Report
 subtitle: 
 date: 04/11/2019
 author: /roxie

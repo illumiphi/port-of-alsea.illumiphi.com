@@ -1,6 +1,6 @@
 ---
 template: event
-title: Board of Commissioners
+title: October 2019 Board of Commissioners
 subtitle: Special Meeting
 date: 10/09/2019
 author: /roxie

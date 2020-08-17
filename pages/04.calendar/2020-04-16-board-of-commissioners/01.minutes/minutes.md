@@ -1,6 +1,6 @@
 ---
 template: article
-title: Minutes
+title: April 2020 Minutes
 subtitle: Regular Meeting of the Port of Alsea Board of Commissioners
 date: 04/23/2020
 author: /roxie
