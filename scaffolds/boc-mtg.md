@@ -39,7 +39,7 @@ data:
         location:
             '@type': Place
             name: ${place_name}
-            address:
+            addcdss:
                 streetAddress: ${place_street}
                 addressLocality: ${place_city}
                 addressRegion: ${place_state}
