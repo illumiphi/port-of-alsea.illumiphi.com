@@ -1,31 +1,34 @@
 ---
-title: July 2020 Board of Commissioners
-subtitle: Regular Monthly Meeting
 template: event
-author: 
+title: August 2020 Board of Commissioners
+subtitle: Regular Monthly Meeting
+date: 08/19/2020
+author: /roxie
 sets:
     default:
         name: Attachments
-        showCount: false
-        showMenu: false
+        showCount: true
+        showMenu: true
 content:
     items: '@self.children'
 taxonomy:
-    category: 
+    photon:
+        - featured
+    category:
         - Commissioners
-    tag: 
+    tag:
         - Meetings
-date: 07/09/2020
+show_gallery: false
 data:
     event:
-        startDate: 07/16/2020 14:00
-        allDay: false
+        '@type': Event
+        startDate: 2020-08-20 14:00
         location:
             '@type': Place
             name: Teleconference
 ---
 
-The regular monthly meeting of the Port of Alsea Board of Commissioners will be held on Thursday, July 16, 2020 @ 2:00PM via teleconference
+The regular monthly meeting of the Port of Alsea Board of Commissioners will be held on Thursday, August 20, 2020 @ 2:00PM via teleconference
 
 ===
 

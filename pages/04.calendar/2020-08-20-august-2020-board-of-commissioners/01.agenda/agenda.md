@@ -1,10 +1,10 @@
 ---
 template: article
-title: July 2020 Agenda
+title: August 2020 Agenda
 subtitle: Regular Meeting of the Port of Alsea Board of Commissioners
-body_classes: roman
-date: 07/23/2020
+date: 08/19/2020
 author: /roxie
+body_classes: roman
 sets:
     default:
         name: Attachments
@@ -19,7 +19,7 @@ taxonomy:
         - agenda
 ---
 
-Thursday, July 16, 2020 02:00 PM via Teleconference
+Thursday, August 20, 2020 02:00 PM via Teleconference
 
 ===
 
@@ -28,9 +28,9 @@ Thursday, July 16, 2020 02:00 PM via Teleconference
 
 # CONSENT CALENDAR
 
-## June 10, 2020 Special Meeting Minutes and June 18, 2020 Regular Meeting minutes
+## July 16, 2020 Special Meeting Minutes and June 18, 2020 Regular Meeting minutes
 
-## June Financials
+## July Financials
 
 # MANAGER’S REPORT
 
@@ -38,24 +38,17 @@ Thursday, July 16, 2020 02:00 PM via Teleconference
 
 # OLD BUSINESS
 
-## Marina Grants
+## Marina Board Grants
 
-## Port Finances
-
-## Painting the Office
-
-## Fire Department Boat House
-
-## Shrimp Daddy and Alsea Bay Crab Leases 
+## Boat Launch and Marina Construction
 
 # NEW BUSINESS
 
-## Additional Marina / Launch Needs
-
-## Eckman Lake
+## Dock of the Bay
 
 # COMMISSIONERS’ COMMENTS
 
 # ADJOURNMENT
+
 
 
