@@ -1,5 +1,9 @@
 name: 'Port of Alsea'
-motto: 'Serving the Alsea ahd Yachats waterways of the Oregon Coast' 
+motto: >
+    Serving the<br>
+    Alsea and Yachats<br>
+    waterways of the<br>
+    Oregon Coast
 telephone: 541-563-3872
 address:
   streetAddress: '365 Port St # A'
