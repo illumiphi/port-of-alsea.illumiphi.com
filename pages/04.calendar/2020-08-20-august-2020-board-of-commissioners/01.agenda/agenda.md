@@ -28,7 +28,10 @@ Thursday, August 20, 2020 02:00 PM via Teleconference
 
 # CONSENT CALENDAR
 
-## July 16, 2020 Special Meeting Minutes and June 18, 2020 Regular Meeting minutes
+## Review Minutes for Approval 
+
+- [July 16, 2020 Regular Meeting Minutes](/calendar/2020-07-16-board-of-commissioners/july-2020-minutes)
+- June 18, 2020 Regular Meeting minutes
 
 ## July Financials
 
