@@ -12,8 +12,6 @@ content:
     order:
         by: basename
         dir: desc
-figure:
-    image: bald-eagle-2011-05-23-jpg
 taxonomy:
     photon:
         - showcase
