@@ -27,7 +27,7 @@ Thursday, July 16, 2020 02:00 PM via Teleconference
 
 # CALL TO ORDER
 
-Board President Bishop called the meeting kto order at 2:05.
+Board President Bishop called the meeting to order at 2:05.
 
 **Commissioners present:**  president Rob Bishop, Vice-President Buster Pankey, Secretary / Treasurer Jan Power, Chuck Pavlik, and Joe Rohleder were present.
 
