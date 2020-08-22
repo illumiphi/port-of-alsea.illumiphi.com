@@ -6,7 +6,7 @@ sets:
     default:
         name: Recent Posts
         showCount: true
-        showMenu: false
+        showMenu: true
 content:
     items: '@self.children'
     order:
