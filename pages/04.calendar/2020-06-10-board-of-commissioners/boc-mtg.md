@@ -61,7 +61,7 @@ Those who wish to attend the meeting but cannot do so by phone or require other 
 ## Contact
 Contact us with any questions, comments, or requests. 
 
->> Roxie Cuellar, Port Manager
-    rcuellar@portofalsea.com
-    541-563-3872 
+> Roxie Cuellar, Port Manager
+> -   rcuellar@portofalsea.com
+> -    541-563-3872 
 
