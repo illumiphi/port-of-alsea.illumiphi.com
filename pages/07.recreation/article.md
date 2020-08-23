@@ -8,6 +8,7 @@ content:
     items: '@self.children'
 taxonomy:
     photon:
+        - footer
 show_gallery: false
 ---
 
