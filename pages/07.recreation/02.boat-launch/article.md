@@ -2,7 +2,6 @@
 published: false
 title: 'Boat Launch'
 subtitle: New double lane ramp coming in 2020
-author: /home
 content:
     items: '@self.children'
 show_gallery: true

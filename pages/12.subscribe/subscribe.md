@@ -1,7 +1,6 @@
 ---
 title: Subscribe
 published: false
-author: /home
 ---
 
 - stay connected with us

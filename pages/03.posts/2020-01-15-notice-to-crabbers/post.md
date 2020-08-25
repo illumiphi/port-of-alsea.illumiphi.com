@@ -1,7 +1,6 @@
 ---
 title: 'Notice to Crabbers'
 subtitle: 'ODFW now requires marked buoys'
-author: /home
 date: 01/01/2020
 taxonomy:
     tag:

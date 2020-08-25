@@ -2,8 +2,10 @@
 title: 'Capital Projects'
 subtitle: current activities at the port
 menu: Projects
-author: /home
 content:
+    title: Projects
+    showCount: true
+    showMenu: true
     items: '@self.children'
 show_gallery: false
 taxonomy:

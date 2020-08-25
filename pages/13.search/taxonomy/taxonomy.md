@@ -1,7 +1,6 @@
 ---
 title: Taxonomy
 subtitle: 'Tags & Categories'
-author: /home
 sets:
     default:
         name: Filtered Pages

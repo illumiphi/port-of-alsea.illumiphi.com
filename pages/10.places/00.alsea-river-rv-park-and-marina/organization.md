@@ -1,7 +1,6 @@
 ---
 published: false
 title: 'Alsea River RV Park & Marina'
-author: /home
 collection:
     name: Articles
     showCount: false

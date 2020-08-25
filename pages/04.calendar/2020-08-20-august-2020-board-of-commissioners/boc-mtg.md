@@ -4,12 +4,10 @@ title: August 2020 Board of Commissioners
 subtitle: Regular Monthly Meeting
 date: 08/19/2020
 author: /roxie
-sets:
-    default:
-        name: Attachments
-        showCount: true
-        showMenu: true
 content:
+    title: Attachments
+    showCount: true
+    showMenu: true
     items: '@self.children'
 taxonomy:
     photon:

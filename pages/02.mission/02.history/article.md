@@ -1,7 +1,6 @@
 ---
 title: History
 show_gallery: true
-author: /home
 ---
 
 The Port District was formed in 1910 and includes the communities of Waldport, Yachats and Tidewater. The Port holds land in public trust throughout much of the Alsea estuary up to mean high tide, as surveyed in 1912.

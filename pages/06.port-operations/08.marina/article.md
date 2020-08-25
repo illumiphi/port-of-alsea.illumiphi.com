@@ -1,7 +1,6 @@
 ---
 title: 'Port of Alsea Marina '
 subtitle: 'Moorage and Boat Launch Rates for 2018'
-author: /home
 collection:
     name: Articles
     showCount: false

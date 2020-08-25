@@ -1,7 +1,6 @@
 ---
 title: 'Notice of Budget Hearing'
 subtitle: May 30, 2019
-author: /home
 collection:
     name: Articles
     showCount: false

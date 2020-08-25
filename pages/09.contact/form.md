@@ -1,12 +1,7 @@
 ---
 published: false
 title: Contact
-collection:
-    name: Articles
-    showCount: false
-    showMenu: false
-content:
-    items: '@self.children'
+subtitle: send us a message
 taxonomy:
     photon:
         - header

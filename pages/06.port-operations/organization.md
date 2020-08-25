@@ -3,6 +3,9 @@ title: 'Port Operations'
 subtitle: Managing the Port Facilities and other activities
 menu: Operations
 content:
+    title: Articles
+    showCount: true
+    showMenu: true
     items: '@self.children'
 show_gallery: true
 taxonomy:

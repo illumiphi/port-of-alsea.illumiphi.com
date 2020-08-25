@@ -1,7 +1,6 @@
 ---
 title: '2018 Port of Alsea Annual Newsletter'
 media_order: PortofAlseaWinterNewsletter2018.pdf
-author: /home
 collection:
     name: Articles
     showCount: false

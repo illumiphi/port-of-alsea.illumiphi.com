@@ -1,12 +1,10 @@
 ---
 title: Governance
 subtitle: Commissioners, Committees, and Ordinances
-collections:
-    children:
-        name: Articles
-        showCount: true
-        showMenu: true
 content:
+    title: Articles
+    showCount: true
+    showMenu: true
     items: '@self.children'
 taxonomy:
     photon:

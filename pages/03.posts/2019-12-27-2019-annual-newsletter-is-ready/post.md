@@ -1,7 +1,6 @@
 ---
 title: '2019 Annual Newsletter is Ready'
 subtitle: 'Residents should receive theirs in the mail'
-author: /home
 collection:
     name: Articles
     showCount: false

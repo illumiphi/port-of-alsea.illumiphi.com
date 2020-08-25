@@ -1,6 +1,5 @@
 ---
 title: 'Restroom Upgrades'
-author: /home
 content:
     items: '@self.children'
 show_gallery: true

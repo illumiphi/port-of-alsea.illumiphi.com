@@ -1,6 +1,8 @@
 ---
 title: Mission
+subtitle: Serving the Alsea and Yachats waterways of the Oregon Coast
 content:
+    title: Articles
     items: '@self.children'
 taxonomy:
     photon:

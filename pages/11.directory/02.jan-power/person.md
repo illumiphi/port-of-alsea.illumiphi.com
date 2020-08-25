@@ -1,7 +1,6 @@
 ---
 title: 'Jan Power'
 subtitle: 'Vice Chair'
-author: /home
 show_gallery: false
 data:
     person:

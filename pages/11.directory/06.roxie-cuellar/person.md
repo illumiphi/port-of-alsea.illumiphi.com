@@ -1,6 +1,5 @@
 ---
 title: 'Roxie Cuellar'
-author: /home
 show_gallery: true
 taxonomy:
     tag:

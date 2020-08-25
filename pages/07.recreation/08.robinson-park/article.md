@@ -1,7 +1,6 @@
 ---
 published: false
 title: 'Robinson Park'
-author: /home
 content:
     items: '@self.children'
 taxonomy:

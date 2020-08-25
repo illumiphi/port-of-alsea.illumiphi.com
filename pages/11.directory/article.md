@@ -6,6 +6,9 @@ collection:
     showCount: true
     showMenu: true
 content:
+    title: People
+    showCount: true
+    showMenu: true
     items: '@self.children'
 taxonomy:
     photon:

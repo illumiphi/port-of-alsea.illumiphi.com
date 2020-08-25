@@ -1,7 +1,6 @@
 ---
 title: Ordinances
 subtitle: 'Through the City of Waldport'
-author: /home
 collection:
     name: Articles
     showCount: false

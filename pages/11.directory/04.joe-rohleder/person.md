@@ -1,7 +1,6 @@
 ---
 title: 'Joe Rohleder'
 subtitle: Commissioner
-author: /home
 show_gallery: false
 data:
     person:

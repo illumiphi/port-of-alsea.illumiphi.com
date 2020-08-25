@@ -2,7 +2,6 @@
 published: false
 title: 'Drift Creek Wilderness'
 subtitle: 'Siuslaw National Forest'
-author: /home
 collection:
     name: Articles
     showCount: false

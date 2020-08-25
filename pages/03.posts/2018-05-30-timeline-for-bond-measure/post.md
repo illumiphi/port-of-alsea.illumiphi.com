@@ -1,6 +1,5 @@
 ---
 title: 'Timeline for Bond Measure Projects'
-author: /home
 collection:
     name: Articles
     showCount: false

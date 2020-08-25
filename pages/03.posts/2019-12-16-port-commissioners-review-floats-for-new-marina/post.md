@@ -1,7 +1,6 @@
 ---
 title: 'Port Commissioners Review Floats for new Marina'
 subtitle: 'Visit to Bergerson Construction'
-author: /home
 collection:
     name: Articles
     showCount: false

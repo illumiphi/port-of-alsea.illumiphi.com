@@ -1,7 +1,6 @@
 ---
 title: 'Chuck Pavlik'
 subtitle: Commissioner
-author: /home
 show_gallery: false
 data:
     person:

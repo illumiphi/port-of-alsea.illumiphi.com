@@ -1,7 +1,6 @@
 ---
 title: 'Notice of Public Comment Meeting'
 subtitle: Tuesday, October 30, at 5:30. 
-author: /home
 show_gallery: true
 date: 10/18/2018
 ---

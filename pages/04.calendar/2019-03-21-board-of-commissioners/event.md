@@ -1,7 +1,6 @@
 ---
 title: March 2019 Board of Commissioners
 subtitle: Regular Monthly Meeting
-author: /home
 sets:
     default:
         name: Attachments

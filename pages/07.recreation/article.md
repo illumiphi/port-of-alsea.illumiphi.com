@@ -1,10 +1,10 @@
 ---
 published: false
 title: Recreation
-sets:
-    default:
-        name: Articles
 content:
+    title: Articles
+    showCount: true
+    showMenu: true
     items: '@self.children'
 taxonomy:
     photon:

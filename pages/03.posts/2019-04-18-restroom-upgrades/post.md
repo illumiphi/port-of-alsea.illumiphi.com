@@ -1,6 +1,5 @@
 ---
 title: 'Restroom Upgrades'
-author: /home
 collection:
     name: Articles
     showCount: false

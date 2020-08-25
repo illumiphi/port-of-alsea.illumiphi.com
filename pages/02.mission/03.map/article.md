@@ -1,6 +1,5 @@
 ---
 title: Map
-author: /home
 collection:
     name: Articles
     showCount: false

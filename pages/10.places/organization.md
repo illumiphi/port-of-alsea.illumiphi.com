@@ -2,11 +2,10 @@
 published: false
 title: Places
 subtitle: 'local establishments to visit and explore'
-collection:
-    name: Places
-    showCount: false
-    showMenu: false
 content:
+    title: Places
+    showCount: true
+    showMenu: true
     items: '@self.children'
 ---
 

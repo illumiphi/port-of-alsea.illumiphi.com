@@ -2,7 +2,6 @@
 published: false
 title: 'W. B. Nelson State Recreation Site'
 subtitle: 'Oregon State Parks'
-author: /home
 collection:
     name: Articles
     showCount: false

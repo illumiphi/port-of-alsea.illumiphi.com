@@ -1,7 +1,6 @@
 ---
 title: 'Rob Bishop'
 subtitle: 'Board Chairman'
-author: /home
 collection:
     name: Articles
     showCount: false

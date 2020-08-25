@@ -1,13 +1,10 @@
 ---
 title: Calendar
 subtitle: 'Meetings, Activites and Events around the Port of Alsea'
-author: /home
-sets:
-    default:
-        name: Events
-        showCount: true
-        showMenu: true
 content:
+    title: Events
+    showCount: true
+    showMenu: true
     items: '@self.children'
     # dateRange:
     #   start: -1 month

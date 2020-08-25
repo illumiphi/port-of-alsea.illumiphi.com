@@ -3,11 +3,10 @@ published: false
 title: Conditions
 subtitle: weather, tides and moon
 author: /phi
-collection:
-    name: Features
+content:
+    title: Features
     showCount: true
     showMenu: true
-content:
     items: '@self.children'
 taxonomy:
     photon:

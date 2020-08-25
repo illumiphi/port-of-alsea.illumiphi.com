@@ -1,6 +1,5 @@
 ---
 title: Search
-author: /home
 content:
     # items: '@root.descendants'
 taxonomy:
