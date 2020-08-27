@@ -10,9 +10,9 @@ sets:
 content:
     items: '@self.children'
 taxonomy:
-    category: 
+    category:
         - Budget
-    tag: 
+    tag:
         - Hearings
 date: 06/01/2020
 data:
@@ -25,7 +25,7 @@ data:
             geo:
                 '@type': GeoCoordinates
                 latitude: 44.4343779,
-                longitude:  -124.0593175 
+                longitude:  -124.0593175
             address:
                 streetAddress: 365 Port St #A
                 addressLocality: Waldport
