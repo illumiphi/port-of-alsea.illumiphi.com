@@ -138,7 +138,7 @@ assets:
   js_minify: true
   enable_asset_timestamp: false
   collections:
-    # jquery: 'system://assets/jquery/jquery-2.x.min.js'
+    jquery: 'system://assets/jquery/jquery-2.x.min.js'
 errors:
   display: 1
   log: true
@@ -147,7 +147,7 @@ log:
   syslog:
     facility: local6
 debugger:
-  enabled: false
+  enabled: true
   shutdown:
     close_connection: true
   twig: true
