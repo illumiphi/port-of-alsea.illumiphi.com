@@ -1,26 +1,17 @@
 ---
 title: Board of Commissioners
 subtitle: 5 elected officials 
-author: /about
-sets:
-    default:
-        name: Articles
-        showCount: true
-        showMenu: true
-    members:
-        name: Members
-        showCount: false
-        showMenu: false
-    events:
-        name: Upcoming Calendar
 content:
+    title: Articles
     items: '@self.children'
 members:
+    title: Members
     items: 
         '@taxonomy.category': Commissioners
     filter:
         type: 'person'
 events:
+    title: Upcoming Calendar
     items: 
         '@taxonomy.category': Commissioners
     filter:
@@ -29,6 +20,7 @@ events:
         start: -2 weeks
         end: +3 months
 posts:
+    title: Recent Posts
     items: 
         '@taxonomy.category': Commissioners
     filter:
@@ -36,21 +28,13 @@ posts:
 taxonomy:
     category:
         - Commissioners
-    tag:
 show_gallery: false
 data:
     organization:
         '@type': Organization
         name: Board of Commissioners
-        telephone: 
-        url: 
         location:
-            address:
-                streetAddress: 
-                addressLocality: 
-                addressRegion: 
-                postalCode: 
-                addressCountry: 
+            name: Port Office
 ---
 
 - two year term
