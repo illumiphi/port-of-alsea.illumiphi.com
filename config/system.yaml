@@ -147,7 +147,7 @@ log:
   syslog:
     facility: local6
 debugger:
-  enabled: true
+  enabled: false
   shutdown:
     close_connection: true
   twig: true
