@@ -12,6 +12,7 @@ taxonomy:
     category:
         - Projects
     photon: 
+        - header
 ---
 
 Current Port of Alsea activities and projects
