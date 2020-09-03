@@ -9,6 +9,15 @@ content:
     order:
         by: basename
         dir: desc
+recent:
+    title: Recent Posts
+    showCount: true
+    showMenu: true
+    items: '@self.children'
+    order:
+        by: basename
+        dir: desc
+    limit: 5
 taxonomy:
     photon:
         - showcase
