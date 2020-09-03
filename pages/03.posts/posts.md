@@ -20,7 +20,6 @@ recent:
     limit: 5
 taxonomy:
     photon:
-        - showcase
         - header
 show_gallery: false
 ---
