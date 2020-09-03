@@ -11,7 +11,7 @@ content:
         dir: desc
 taxonomy:
     photon:
-        # - showcase
+        - showcase
         - header
 show_gallery: false
 ---
