@@ -7,9 +7,9 @@ motto: >
 telephone: 541-563-3872
 address:
   streetAddress: '365 Port St # A'
+  addressLocality: Waldport
   addressRegion: OR
   addressCountry: US
-  addressLocality: Waldport
   postalCode: '97394'
 social:
   facebook: portofalsea
