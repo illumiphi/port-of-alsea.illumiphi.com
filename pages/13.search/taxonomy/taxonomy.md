@@ -1,6 +1,5 @@
 ---
-title: Taxonomy
-subtitle: 'Tags & Categories'
+title: Tags & Categories
 sets:
     default:
         name: Filtered Pages
