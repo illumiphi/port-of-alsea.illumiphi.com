@@ -19,18 +19,14 @@ title: ${title}
 subtitle: ${subtitle}
 date: ${post_date}
 author: ${author}
-sets:
-    default:
-        name: Attachments
-        showCount: true
-        showMenu: true
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 
         - Meetings
     tag: 
-        - Commissioners
+        - commissioners
 show_gallery: false
 data:
     event:
