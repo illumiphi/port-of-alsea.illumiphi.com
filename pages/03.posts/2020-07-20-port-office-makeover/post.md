@@ -3,18 +3,14 @@ title: Port Office Makeover
 subtitle: Volunteers help to spruce things up
 date: 07/20/2020
 author: /roxie
-sets:
-    default:
-        name: Attachments
-        showCount: true
-        showMenu: true
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 
-        - Operations
+        - Announcements
     tag: 
-        - 
+        - office
 show_gallery: true
 ---
 

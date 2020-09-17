@@ -3,12 +3,8 @@ title: Financials
 subtitle: December 2018 
 date: 2019-01-12
 author: /roxie
-sets:
-    default:
-        name: Details
-        showCount: true
-        showMenu: true
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 

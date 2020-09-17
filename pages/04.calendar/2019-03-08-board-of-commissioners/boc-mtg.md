@@ -4,18 +4,14 @@ title: March 2019 Special Meeting
 subtitle: Board of Commissioners
 date: 03/05/2019
 author: /roxie
-sets:
-    default:
-        name: Attachments
-        showCount: true
-        showMenu: true
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 
-        - Commissioners
-    tag: 
         - Meetings
+    tag: 
+        - commissioners
 show_gallery: false
 data:
     event:

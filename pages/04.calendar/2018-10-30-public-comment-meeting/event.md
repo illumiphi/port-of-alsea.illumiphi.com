@@ -1,13 +1,13 @@
 ---
-title: 'Public Comment Meeting'
+title: October 2018 Public Comment Meeting
 content:
+    title: Attachments
     items: '@self.children'
-date: 10/23/2018
 taxonomy:
-    category:
-        - Projects
-    tag:
+    category: 
         - Meetings
+    tag: 
+date: 10/23/2018
 data:
     event:
         startDate: '10/30/2018 05:30 pm'

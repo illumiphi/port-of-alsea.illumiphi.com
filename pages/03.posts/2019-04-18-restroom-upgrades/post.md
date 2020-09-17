@@ -1,10 +1,7 @@
 ---
 title: 'Restroom Upgrades'
-collection:
-    name: Articles
-    showCount: false
-    showMenu: false
 content:
+    title: Attachments
     items: '@self.children'
 figure:
     image: '1 front view.JPG'

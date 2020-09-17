@@ -4,12 +4,8 @@ title: 2019 Financials
 subtitle: March 2019
 date: 04/11/2019
 author: /roxie
-sets:
-    default:
-        name: Attachments
-        showCount: true
-        showMenu: true
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 

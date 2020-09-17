@@ -1,15 +1,14 @@
 ---
 title: 'Timeline for Bond Measure Projects'
-collection:
-    name: Articles
-    showCount: false
-    showMenu: false
 content:
+    name: Attachments
     items: '@self.children'
 taxonomy:
-    photon:
     category:
-        - Projects
+        - Announcements
+    tag:
+        - marina
+        - construction
 ---
 
 Updates on the Port of Alsea Bond Measure Projects

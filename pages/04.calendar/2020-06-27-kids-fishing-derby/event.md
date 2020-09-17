@@ -2,11 +2,9 @@
 title: Kid's Fishing Derby
 subtitle: CANCELLED
 author: 
-content:
-    items: '@self.children'
 taxonomy:
     category: 
-        - Event
+        - Events
     tag: 
         - community
 date: 06/20/2020

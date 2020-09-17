@@ -3,18 +3,14 @@ title: Grant Applications Submitted for Kayak Launch
 subtitle: Thanks to all who wrote letters of support
 date: 08/27/2020
 author: /roxie
-sets:
-    default:
-        name: Attachments
-        showCount: true
-        showMenu: true
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 
-        - 
+        - Announcements
     tag: 
-        - 
+        - recreation
 show_gallery: true
 ---
 

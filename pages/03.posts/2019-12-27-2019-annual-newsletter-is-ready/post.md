@@ -1,13 +1,10 @@
 ---
 title: '2019 Annual Newsletter is Ready'
 subtitle: 'Residents should receive theirs in the mail'
-collection:
-    name: Articles
-    showCount: false
-    showMenu: false
 content:
+    title: Attachments
     items: '@self.children'
-date: '12/27/2019 12:00 am'
+date: 12/27/2019
 ---
 
 - read it [here](/port-operations/annual-newsletters/2019-12-31-port-of-alsea-annual-newsletter)

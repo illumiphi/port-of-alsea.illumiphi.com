@@ -4,12 +4,9 @@ title: February 2020 Agenda
 subtitle: Regular Meeting of the Port of Alsea Board of Commissioners
 date: 02/13/2020
 author: /roxie
-sets:
-    default:
-        name: Attachments
-        showCount: true
-        showMenu: true
+body_classes: roman
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 
@@ -26,34 +23,34 @@ AGENDA
 Port of Alsea Regular Commission Meeting
 February 20, 2020, 2:00 PM, at 365 Port Street, Waldport, OR  97394
 
-# I. CALL TO ORDER
+# CALL TO ORDER
 
-# II. CONSENT CALENDAR  
+# CONSENT CALENDAR  
 
-## A.   	 January 16, 2020 Regular Meeting Minutes  
+##   	 January 16, 2020 Regular Meeting Minutes  
 
-## B.    	January Financials
+##    	January Financials
 
-# III. MANAGER’S REPORT
+# MANAGER’S REPORT
 
-# IV. PUBLIC COMMENT 
+# PUBLIC COMMENT 
 
-# V. OLD BUSINESS
+# OLD BUSINESS
 
-## A.   	Personnel Manual
+##   	Personnel Manual
 
-## B.  	Eckman Lake
+##  	Eckman Lake
 
-# VI. NEW BUSINESS
+# NEW BUSINESS
 
-## A.  	Selection of Rubstrip for Marina Floats
+##  	Selection of Rubstrip for Marina Floats
 
-## B.  	New ODF&W R & E Grant
+##  	New ODF&W R & E Grant
 
-## C.  	Marine Board Non-Motorized Vessels Grant / Parking Lot Grant
+##  	Marine Board Non-Motorized Vessels Grant / Parking Lot Grant
 
 
-# VII. COMMISSIONERS’ COMMENTS
+# COMMISSIONERS’ COMMENTS
 
-# VIII. ADJOURNMENT
+# ADJOURNMENT
 

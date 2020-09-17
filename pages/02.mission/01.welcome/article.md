@@ -2,15 +2,12 @@
 title: 'Welcome to the Port of Alsea'
 subtitle: 'Let the adventure begin...'
 menu: Home
-collection:
-    name: Articles
-    showCount: false
-    showMenu: false
 content:
+    title: Articles
     items: '@root.descendants'
     order:
-      by: date
-      dir: desc
+        by: date
+        dir: desc
     limit: 10
 taxonomy:
 show_gallery: true

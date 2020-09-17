@@ -1,15 +1,12 @@
 ---
 template: article
-title: Agenda
+title: June 2018 Agenda
 subtitle: Regular Meeting of the Port of Alsea Board of Commissioners
 date: 06/21/2018
 author: /roxie
-sets:
-    default:
-        name: Attachments
-        showCount: true
-        showMenu: true
+body_classes: roman
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 
@@ -22,35 +19,35 @@ Thursday, June 28, 2018 02:00 PM at the Yachats Commons, 411 Hwy 101, Yachats, O
 
 ===
 
-# I. CALL TO ORDER
+# CALL TO ORDER
 
-# II. CONSENT CALENDAR
+# CONSENT CALENDAR
 
-## A.  	Approval of the May, 2018, Regular Meeting Minutes and June 6, 2018    Special Meeting Minutes
+##  	Approval of the May, 2018, Regular Meeting Minutes and June 6, 2018    Special Meeting Minutes
 
-## B. 	March Financial Statement
+## 	March Financial Statement
 
-# III. Meeting with Jon Holbrook on Marina Design
+# Meeting with Jon Holbrook on Marina Design
 
-# IV. Adoption of Resolution Authorizing Issuance of the Bonds
+# Adoption of Resolution Authorizing Issuance of the Bonds
 
-# V. MANAGER’S REPORT
+# MANAGER’S REPORT
 
-# VI. OLD BUSINESS
+# OLD BUSINESS
 
-## A.  	Appointments to the Citizen Review Committee
+##  	Appointments to the Citizen Review Committee
 
-## B.   	Food Carts	
+##   	Food Carts	
 
-# VII. NEW BUSINESS 
+# NEW BUSINESS 
 
-## A.    	Website
+##    	Website
 
-## B.   	Second Annual Newsletter
+##   	Second Annual Newsletter
 
-# VIII. COMMISSIONERS’ COMMENTS
+# COMMISSIONERS’ COMMENTS
 
-# IX. ADJOURNMENT
+# ADJOURNMENT
 
 
 

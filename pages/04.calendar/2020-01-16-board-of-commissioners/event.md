@@ -1,19 +1,15 @@
 ---
 title: January 2020 Board of Commissioners
 subtitle: Regular Monthly Meeting
-author: 
-sets:
-    default:
-        name: Attachments
-        showCount: false
-        showMenu: false
+author: /roxie
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 
-        - Commissioners
-    tag: 
         - Meetings
+    tag: 
+        - commissioners
 date: 01/16/2020
 data:
     event:

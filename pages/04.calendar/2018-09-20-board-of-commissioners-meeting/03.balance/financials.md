@@ -4,12 +4,8 @@ title: Balance
 subtitle: August 2018
 date: 09/13/2018
 author: /roxie
-sets:
-    default:
-        name: Attachments
-        showCount: true
-        showMenu: true
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 

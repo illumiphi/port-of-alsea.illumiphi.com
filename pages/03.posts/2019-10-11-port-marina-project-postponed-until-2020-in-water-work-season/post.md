@@ -4,12 +4,14 @@ subtitle: Necessary permits were not issued in time
 author: null
 date: 11/1/2019
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
+    category:
+        - Announcements
     tag:
         - marina
-    category:
-        - Projects
+        - construction
 ---
 
 - Contractor requested rescheduling

@@ -4,18 +4,14 @@ title: May 2019 Board of Commissioners
 subtitle: Regular Monthly Meeting
 date: 05/29/2019
 author: /roxie
-sets:
-    default:
-        name: Attachments
-        showCount: true
-        showMenu: true
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 
-        - Commissioners
-    tag: 
         - Meetings
+    tag: 
+        - commissioners
 show_gallery: false
 data:
     event:

@@ -3,12 +3,8 @@ title: Launch Ramp and Boarding Float Maintenance
 subtitle: June 12-14, 2018
 date: 06/11/2018
 author: /roxie
-sets:
-    default:
-        name: Attachments
-        showCount: true
-        showMenu: true
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 

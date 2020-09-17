@@ -7,13 +7,13 @@ content:
 members:
     title: Members
     items: 
-        '@taxonomy.category': Commissioners
+        '@taxonomy.tag': commissioners
     filter:
         type: 'person'
 events:
     title: Upcoming Calendar
     items: 
-        '@taxonomy.category': Commissioners
+        '@taxonomy.tag': commissioners
     filter:
         type: 'event'
     dateRange:
@@ -22,12 +22,12 @@ events:
 posts:
     title: Recent Posts
     items: 
-        '@taxonomy.category': Commissioners
+        '@taxonomy.tag': commissioners
     filter:
         type: 'post'
 taxonomy:
-    category:
-        - Commissioners
+    tag:
+        - commissioners
 show_gallery: false
 data:
     organization:

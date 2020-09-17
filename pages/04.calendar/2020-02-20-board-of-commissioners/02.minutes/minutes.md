@@ -4,12 +4,9 @@ title: February 2020 Minutes
 subtitle: Regular Meeting of the Port of Alsea Board of Commissioners
 date: 02/27/2019
 author: /roxie
-sets:
-    default:
-        name: Attachments
-        showCount: true
-        showMenu: true
+body_classes: roman
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 
@@ -25,7 +22,7 @@ Thursday, February 20, 2020 02:00 PM at the Port Office
 February 20, 2020 Minutes
 Port of Alsea Regular Commission Meeting
 
-# I. CALL TO ORDER
+# CALL TO ORDER
 
 Board President Bishop called the meeting to order at 2:00.
 
@@ -35,11 +32,11 @@ Management and Staff:  Roxie Cuellar, Port Manager
 
 Members of the Public and Media:	  No members of the public or media were present.
 
-# II. APPROVAL OF THE CONSENT CALENDAR
+# APPROVAL OF THE CONSENT CALENDAR
 
 Power moved to approve the consent calendar of the November 21, 2019 Regular Meeting Minutes and the December 13, 2019 Special Meeting Minutes, and the November and December financials.  Rohleder seconded the motion.  The motion passed 4-0.
 
-# III. MANAGER’S REPORT
+# MANAGER’S REPORT
 
 Cuellar informed the commissioners that she had signed the $162,500 grant contract with the Oregon State Marine Board that will help pay for the new boat launch.  Oregon Department of Fish and Wildlife (ODF&W) R & E grant contract for the additional $162,500 for the boat launch will be arriving in the next two months for signature.
 
@@ -50,14 +47,14 @@ Cuellar reminded the commissioners to submit their financial statements to the O
 Cuellar told the commissioners that she had been having problems with QuickBooks, and since their current version is three years old, was thinking of getting the 2020 version.  However, Tony Wilder, the Port’s auditor, asked her to wait until July so that the Port would not be his only client using the 2020 version.
 
 
-# IV. PUBLIC COMMENT PERIOD
+# PUBLIC COMMENT PERIOD
 
 There were no public comments.
 
   
-# V. OLD BUSINESS
+# OLD BUSINESS
 
-## A.   	Personnel Manual
+## Personnel Manual
 
 The commissioners went through the Port’s current personnel policies that pertain to vacation, sick, and holiday benefits.  The current policies are twenty years old and no longer consistent with current standards.  The commissioners requested that Cuellar draw up a resolution making the following changes in Port policies:
 
@@ -80,25 +77,25 @@ The commissioners went through the Port’s current personnel policies that pert
 
 In addition, employees will have two floating holidays to be taken at a time of their choosing, subject to the approval of the port manager.  Employees who work on paid holidays shall be paid double time.
 
-## B.  	Eckman Lake
+## Eckman Lake
 
 Cuellar told the commissioners that Paul Engelmeyer, president of the Mid-Coast Watershed Council, had indicated to her that the MCWC tech team would like to be involved in the Port’s efforts to clean the algae out of Eckman Lake.  She told the commissioners that she would set a meeting with Paul, his group, and two commissioners, and herself.  She suggested Commissioners Pankey and Rohleder might be appropriate since they lived up Eckman Creek Road.
 
-# VI.  NEW BUSINESS
+# NEW BUSINESS
 
-## A.  	Selection of Rubstrip for Marina Floats
+## Selection of Rubstrip for Marina Floats
 
 The commissioners examined the two rubstrip samples provided to the Port by Bergerson Construction.  Cuellar told the commissioners that Bergerson has estimated that the cloth rubstrip would cost approximately $11- 12,000 more than the solid strip.  Cuellar told the commissioners she had tried to clean both samples; the solid strip cleaned up easily and the cloth strip did not clean up at all.  Commissioners noted they did not feel the cloth strip would wear as well as the solid strip.  The commissioners, by unanimous consent, selected the harder, solid sample to use on the new marina floats.
 
-## B.   	New ODF&W R & E Grant
+## New ODF&W R & E Grant
 
 Cuellar discussed the possibility of getting an ODF&W R & E grant to help cover the cost of the marina mitigation project.  Commissioner Rohleder said he would make some calls to see if ODF&W might be receptive to that.
 
-## C.   	Marine Board Non-Motorized Vessels Grant / Parking Lot Grant
+## Marine Board Non-Motorized Vessels Grant / Parking Lot Grant
 
 Cuellar told the commissioners that she was going to talk with Janine at the Marine Board about possible grants for the kayak launch and paving projects. Janine had previously approached the Port about a grant for the kayak launch but the timing had been bad.  Since the Port had to delay the entire project for a year, the timing might be great.
 
-# VII.  COMMISSIONERS’ COMMENTS
+# COMMISSIONERS’ COMMENTS
 
 Commissioner Rohleder said that Desert Spring Trout Farm at Summer Lake would provide the trout for the Port’s children’s fishing day on June 27.  They will supply half-pound fish.  ODF&W would set up the paperwork.  The two “ponds” are 13’ and 15’ rounds and two feet high.  The best time of day is to hold the event from 10:00 AM – noon.  The Alsea Sportsman’s Association and the Lion’s Club may also be willing to help.
 
@@ -106,7 +103,7 @@ Power asked if the Port was still a member of the Chamber of Commerce; Cuellar t
 
 Pankey told the commissioners that he and Robby Hensen would install the new floor in the public bathrooms sometime in March.  
 
-# VIII. THE MEETING WAS ADJOURNED AT 4:25.
+# THE MEETING WAS ADJOURNED AT 4:25.
 
 
     ATTESTED TO:

@@ -4,12 +4,9 @@ title: June 2020 Minutes
 subtitle: Special Meeting of the Port of Alsea Board of Commissioners
 date: 06/21/2020
 author: /roxie
-sets:
-    default:
-        name: Attachments
-        showCount: true
-        showMenu: true
+body_classes: roman
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 
@@ -25,7 +22,7 @@ Wednesday, June 10, 2020 02:00 PM at the Port Office
 June 10, 2020
 Port of Alsea Special Commission Meeting
 
-# I. CALL TO ORDER
+# CALL TO ORDER
 
 Board President Bishop called the meeting to order at 2:30.
 
@@ -35,15 +32,15 @@ Management and Staff:  Roxie Cuellar, Port Manager
 
 Members of the Public and Media:	  
 
-# II. NEW BUSINESS
+# NEW BUSINESS
 
-## A. Oregon State Marine Board Grants
+## Oregon State Marine Board Grants
 
 Cuellar explained to the commissioners that the Port should consider applying for two OSMB grants:  one was a Waterway Access Grant (WAG) to help pay for the kayak launch and the other was a Boating Facility Grant (BFG) to provide financial assistance to finish paving the west parking lot.  Cuellar provided materials that described the grants and that estimated the cost of the kayak launch at $40,000 and the cost of the paving project at $35,000.  The question before the commissioners was how much of a match to provide in the two applications.  The higher the match, the more likely that the grant would be awarded.  Cuellar suggested that the more important of the two grants was the WAG because any grant money received would reduce the amount of bond money spent on the marina project, which would free up money for dredging or other capital projects the commissioners chose to pursue.
 
 The commissioners, by consensus, decided to provide a 35% match for the WAG application and a 25% match for the BFG application.
 
-# III. 	ADJOURNMENT
+# ADJOURNMENT
 
 As there was no further business, Bishop adjourned the meeting at 3:45.
 

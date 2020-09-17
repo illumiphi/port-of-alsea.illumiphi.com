@@ -3,12 +3,13 @@ title: Executive Session
 subtitle: followed by Regular Meeting
 author: /roxie
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
-    tag: 
-        - Meetings
     category: 
-        - Commissioners
+        - Meetings
+    tag: 
+        - commissioners
 date: 10/04/2018
 data:
     event:

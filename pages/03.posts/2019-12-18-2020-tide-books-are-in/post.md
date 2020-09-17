@@ -1,17 +1,14 @@
 ---
 title: 2020 Tide Books are in
 subtitle: Stop by the port office
-author: null
+author: /roxie
 content:
-  items: '@self.children'
-figure:
-  image: null
-  alt: null
-  title: null
-  caption: null
+    title: Attachments
+    items: '@self.children'
 taxonomy:
   tag:
   category:
+      - Announcements
 ---
 
 They're Free

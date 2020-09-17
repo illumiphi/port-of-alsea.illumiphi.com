@@ -3,17 +3,15 @@ title: Port releases 2nd Addendum for Boat Launch and Marina Construction Projec
 subtitle: 
 date: 09/11/2018
 author: /about
-sets:
-    default:
-        name: Attachments
-        showCount: true
-        showMenu: true
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 
+        - Announcements
     tag: 
-        - announcements
+        - marina
+        - construction
 show_gallery: true
 ---
 

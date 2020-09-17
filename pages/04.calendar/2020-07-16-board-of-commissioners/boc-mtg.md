@@ -3,18 +3,14 @@ title: July 2020 Board of Commissioners
 subtitle: Regular Monthly Meeting
 template: event
 author: 
-sets:
-    default:
-        name: Attachments
-        showCount: false
-        showMenu: false
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 
-        - Commissioners
-    tag: 
         - Meetings
+    tag: 
+        - commissioners
 date: 07/09/2020
 data:
     event:

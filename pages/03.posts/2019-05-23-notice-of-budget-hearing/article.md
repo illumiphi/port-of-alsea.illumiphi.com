@@ -1,11 +1,8 @@
 ---
 title: 'Notice of Budget Hearing'
 subtitle: May 30, 2019
-collection:
-    name: Articles
-    showCount: false
-    showMenu: false
 content:
+    title: Attachments
     items: '@self.children'
 date: 05/23/2019
 ---

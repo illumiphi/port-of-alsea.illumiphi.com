@@ -3,13 +3,14 @@ title: November 2018 Work Session
 subtitle: Board of Commissioners
 author: /roxie
 content:
+    title: Attachments
     items: '@self.children'
-date: 10/30/2018
 taxonomy:
     category: 
-        - Commissioners
-    tag: 
         - Meetings
+    tag: 
+        - commissioners
+date: 10/30/2018
 data:
     event:
         startDate: '11/07/2018 09:30 am'

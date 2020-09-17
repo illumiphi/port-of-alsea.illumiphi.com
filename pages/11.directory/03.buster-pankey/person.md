@@ -14,7 +14,8 @@ data:
             postalCode: '97394'
             addressCountry: US
 taxonomy:
-    category: Commissioners
+    tag: 
+        - commissioners
 ---
 
 

@@ -3,19 +3,16 @@ title: Thank You!
 subtitle: The Bond Measure has passed!
 date: 05/23/2018
 author: /roxie
-sets:
-    default:
-        name: Attachments
-        showCount: true
-        showMenu: true
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 
         - Announcements
     tag: 
         - bond measure
-        - marina reconstruction
+        - marina
+        - construction
 show_gallery: true
 ---
 

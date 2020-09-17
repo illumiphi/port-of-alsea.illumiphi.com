@@ -2,18 +2,14 @@
 title: March 2018 Board of Commissioners
 subtitle: Regular Monthly Meeting
 author: /roxie
-sets:
-    default:
-        name: Attachments
-        showCount: false
-        showMenu: false
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 
-        - Commissioners
-    tag: 
         - Meetings
+    tag: 
+        - commissioners
 date: 03/08/2018
 data:
     event:

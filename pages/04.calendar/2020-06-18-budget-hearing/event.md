@@ -1,19 +1,15 @@
 ---
 title: 2020 Budget Hearing
 subtitle: Review and discussion of the Budget Committee's proposal
-author:
-sets:
-    default:
-        name: Attachments
-        showCount: false
-        showMenu: false
+author: /roxie
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
-    category:
-        - Budget
-    tag:
+    category: 
         - Hearings
+    tag: 
+        - budget
 date: 06/01/2020
 data:
     event:

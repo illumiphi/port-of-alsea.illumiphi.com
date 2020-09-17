@@ -3,6 +3,8 @@ title: 'Notice to Crabbers'
 subtitle: 'ODFW now requires marked buoys'
 date: 01/01/2020
 taxonomy:
+    category:
+        - Announcements
     tag:
         - ODFW
 ---

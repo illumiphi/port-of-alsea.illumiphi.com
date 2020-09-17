@@ -1,18 +1,17 @@
 ---
 title: 'Port Commissioners Review Floats for new Marina'
 subtitle: 'Visit to Bergerson Construction'
-collection:
-    name: Articles
-    showCount: false
-    showMenu: false
 content:
+    title: Attachments
     items: '@self.children'
 figure:
     image: port-commissioners-review-new-float-construction.jpg
 taxonomy:
     category:
-        - Marina
-        - Commissioners
+        - Announcements
+    tags:
+        - marina
+        - commissioners
 ---
 
 Astoria

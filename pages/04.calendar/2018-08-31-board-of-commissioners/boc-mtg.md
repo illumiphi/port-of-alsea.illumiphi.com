@@ -4,18 +4,14 @@ title: August 2018 Special Board of Commissioners
 subtitle: Special Meeting
 date: 08/29/2018
 author: /roxie
-sets:
-    default:
-        name: Attachments
-        showCount: true
-        showMenu: true
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 
-        - Commissioners
-    tag: 
         - Meetings
+    tag: 
+        - commissioners
         - budget
 show_gallery: false
 data:

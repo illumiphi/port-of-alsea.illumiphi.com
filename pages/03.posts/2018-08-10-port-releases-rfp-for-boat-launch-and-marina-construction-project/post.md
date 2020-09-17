@@ -3,12 +3,8 @@ title: Port Releases RFP for Boat Launch and Marina Construction Project
 subtitle: 
 date: 08/10/2018
 author: /roxie
-sets:
-    default:
-        name: Attachments
-        showCount: true
-        showMenu: true
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 

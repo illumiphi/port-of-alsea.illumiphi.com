@@ -1,15 +1,12 @@
 ---
 template: article
-title: Agenda
+title: November 2018 Agenda
 subtitle: Regular Meeting of the Port of Alsea Board of Commissioners
 date: 11/08/2018
 author: /roxie
-sets:
-    default:
-        name: Attachments
-        showCount: true
-        showMenu: true
+body_classes: roman
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 
@@ -26,37 +23,36 @@ AGENDA
 Port of Alsea Special Commission Meeting
 November 15, 2018, 2:00 PM, at 365 Port Street, Waldport, OR  97394
 
-    I. CALL TO ORDER
+# CALL TO ORDER
 
-    II. CONSENT CALENDAR
-  
-    A. 	September 20 and October 17, 2018 Minutes
+# CONSENT CALENDAR
 
-    B.   	October, 2018 Financial Report
+## 	September 20 and October 17, 2018 Minutes
 
-    III. MANAGER’S REPORT
+##  October, 2018 Financial Report
 
-    IV. PUBLIC COMMENT PERIOD
+# MANAGER’S REPORT
 
-    V. OLD BUSINESS
+# PUBLIC COMMENT PERIOD
 
-    1. Square versus Columbia Bank VISA 
+# OLD BUSINESS
 
-    2. Marina Project
+## Square versus Columbia Bank VISA 
 
-    3. Guptil’s Fence
+## Marina Project
 
-    4. Parking
+## Guptil’s Fence
 
-    VI. NEW BUSINESS
+## Parking
 
-    1. Christmas Dinner
+# NEW BUSINESS
 
-    2. General Fund Money in State Investment Pool
+## Christmas Dinner
 
-    3. Letter from Adam Springer to Coos Bay
+## General Fund Money in State Investment Pool
 
+## Letter from Adam Springer to Coos Bay
 
-    VII. COMMISSIONERS’ COMMENTS 
+# COMMISSIONERS’ COMMENTS 
 
-    VIII. ADJOURNMENT
+# ADJOURNMENT

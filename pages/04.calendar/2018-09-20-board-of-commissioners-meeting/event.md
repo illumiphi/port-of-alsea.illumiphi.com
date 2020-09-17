@@ -2,19 +2,15 @@
 title: September 2018 Board of Commissioners
 subtitle: Regular Monthly Meeting
 author: /roxie
-sets:
-    default:
-        name: Attachments
-        showCount: false
-        showMenu: false
 content:
+    title: Attachments
     items: '@self.children'
-date: 09/13/2018
 taxonomy:
     category: 
-        - Commissioners
-    tag: 
         - Meetings
+    tag: 
+        - commissioners
+date: 09/13/2018
 data:
     event:
         startDate: 09/20/2018 14:00

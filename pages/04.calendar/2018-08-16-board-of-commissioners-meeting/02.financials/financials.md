@@ -4,12 +4,8 @@ title: Financials
 subtitle: July 2018
 date: 08/16/2018
 author: /roxie
-sets:
-    default:
-        name: Attachments
-        showCount: true
-        showMenu: true
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 

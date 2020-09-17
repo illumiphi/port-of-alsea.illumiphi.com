@@ -1,20 +1,16 @@
 ---
-title: 'Board of Commissioners'
+title: November 2018 Board of Commissioners
 subtitle: Regular Monthly Meeting
 author: /roxie
-sets:
-    default:
-        name: Attachments
-        showCount: false
-        showMenu: false
 content:
+    title: Attachments
     items: '@self.children'
-date: 11/15/2018
 taxonomy:
     category: 
-        - Commissioners
-    tag: 
         - Meetings
+    tag: 
+        - commissioners
+date: 11/15/2018
 data:
     event:
         startDate: '11/22/2018 02:00 pm'

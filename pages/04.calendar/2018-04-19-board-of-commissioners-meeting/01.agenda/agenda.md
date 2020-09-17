@@ -1,15 +1,12 @@
 ---
 template: article
-title: Agenda
+title: April 2018 Agenda
 subtitle: Regular Meeting of the Port of Alsea Board of Commissioners
 date: 04/11/2018
 author: /roxie
-sets:
-    default:
-        name: Attachments
-        showCount: true
-        showMenu: true
+body_classes: roman
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 
@@ -22,35 +19,33 @@ Thursday, April 19, 2018 02:04 PM at the Yachats Commons
 
 ===
 
-# I. CALL TO ORDER
+# CALL TO ORDER
 
-# II. CONSENT CALENDAR
+# CONSENT CALENDAR
 
-## A. Approval of the March 15, 2018, Regular Meeting Minutes
+## Approval of the March 15, 2018, Regular Meeting Minutes
 
-## B. March Financial Statement
+## March Financial Statement
 
-# III. MANAGER’S REPORT
+# MANAGER’S REPORT
 
-# IV. OLD BUSINESS
+# OLD BUSINESS
 
-## A. Nick Rust, Maintenance Employee
+## Nick Rust, Maintenance Employee
 
-## B. Food Carts / Site Prep
+## Food Carts / Site Prep
 
-## C. 2018 / 2019 Budget Committee Meeting
+## 2018 / 2019 Budget Committee Meeting
 
-## D. 2018 / 2019 Budget Hearing
+## 2018 / 2019 Budget Hearing
 
-# V. NEW BUSINESS 
+# NEW BUSINESS 
 
-## A. Proposed / Accepted Boat Launch Mitigation Plan
+## Proposed / Accepted Boat Launch Mitigation Plan
 
-## B. Solar Lights for Launch / Marina
+## Solar Lights for Launch / Marina
 
-## C. 
+# COMMISSIONERS’ COMMENTS
 
-# VI. COMMISSIONERS’ COMMENTS
-
-# VII. ADJOURNMENT
+# ADJOURNMENT
 

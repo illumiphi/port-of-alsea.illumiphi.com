@@ -5,12 +5,8 @@ subtitle: Regular Meeting of the Port of Alsea Board of Commissioners
 date: 09/15/2020
 author: /roxie
 body_classes: roman
-sets:
-    default:
-        name: Attachments
-        showCount: true
-        showMenu: true
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 

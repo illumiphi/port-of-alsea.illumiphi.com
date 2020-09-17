@@ -1,15 +1,11 @@
 ---
 template: article
-title: Minutes
-subtitle: Regular Meeting of the Port of Alsea Board of Commissioners
+title: October 2018 Minutes
+subtitle: Executive Session of the Port of Alsea Board of Commissioners
 date: 10/23/2018
 author: /roxie
-sets:
-    default:
-        name: Attachments
-        showCount: true
-        showMenu: true
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 

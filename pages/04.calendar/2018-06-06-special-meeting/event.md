@@ -1,14 +1,15 @@
 ---
 title: June 2018 Special Meeting
 subtitle: Policy Review with Board of Commissioners
-author: 
+author: /roxie
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 
-        - Commissioners
-    tag: 
         - Meetings
+    tag: 
+        - commissioners
 date: 06/01/2018
 data:
     event:

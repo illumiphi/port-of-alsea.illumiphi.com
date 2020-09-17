@@ -2,17 +2,14 @@
 title: 2020 Budget Committee
 subtitle: Public Meeting to Review 2020 Budget
 author: /roxie
-collection:
-    name: Posts
-    showCount: true
-    showMenu: true
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 
-      - Budget 
+        - Meetings
     tag: 
-      - Meetings 
+        - budget
 show_gallery: false
 date: 04/30/2020
 data:
@@ -25,7 +22,7 @@ data:
             geo:
                 '@type': GeoCoordinates
                 latitude: 44.4343779,
-                longitude:  -124.0593175 
+                longitude:  -124.0593175
             address:
                 streetAddress: 365 Port St #A
                 addressLocality: Waldport

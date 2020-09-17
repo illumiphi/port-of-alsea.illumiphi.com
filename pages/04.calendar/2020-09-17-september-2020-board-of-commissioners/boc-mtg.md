@@ -4,26 +4,21 @@ title: September 2020 Board of Commissioners
 subtitle: Regular Monthly Meeting
 date: 09/03/2020
 author: /roxie
-sets:
-    default:
-        name: Attachments
-        showCount: true
-        showMenu: true
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 
         - Meetings
     tag: 
-        - Commissioners
-show_gallery: false
+        - commissioners
 data:
     event:
         '@type': Event
         startDate: 2020-09-17 14:00
         location:
             '@type': Place
-            name: Teleconference
+            name: Port Shop Building
 ---
 
 - The regular monthly meeting of the Port of Alsea Board of Commissioners will be held on Thursday, September 17, 2020 @ 02:00PM at the Port Shop Building on Broadway in Waldport.
@@ -41,7 +36,7 @@ Those who wish to attend but require special accommodations should contact the P
 ## Contact
 Contact us with any questions, comments, or requests. 
 
->> Roxie Cuellar, Port Manager
-    rcuellar@portofalsea.com
-    541-563-3872 
+> Roxie Cuellar, Port Manager
+> - rcuellar@portofalsea.com
+> - 541-563-3872 
 

@@ -2,18 +2,14 @@
 title: May 2018 Board of Commissioners
 subtitle: General Meeting and Public Hearing on the Proposed Budget for FY-2018-19
 author: /roxie
-sets:
-    default:
-        name: Attachments
-        showCount: false
-        showMenu: false
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 
-        - Commissioners
-    tag: 
         - Meetings
+    tag: 
+        - commissioners
 date: 05/14/2018
 data:
     event:

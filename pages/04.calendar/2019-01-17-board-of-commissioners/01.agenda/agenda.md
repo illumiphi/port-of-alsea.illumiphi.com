@@ -1,15 +1,12 @@
 ---
 template: article
-title: Agenda
+title: January 2019 Agenda
 subtitle: Regular Meeting of the Port of Alsea Board of Commissioners
-date: 2020-01-12
+date: 01/12/2019
 author: /roxie
-sets:
-    default:
-        name: Attachments
-        showCount: true
-        showMenu: true
+body_classes: roman
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 
@@ -22,33 +19,33 @@ Thursday, January 17, 2019 2 PM at the Port Office
 
 ===
 
-# I. CALL TO ORDER
+# CALL TO ORDER
 
-# II. CONSENT CALENDAR
+# CONSENT CALENDAR
 
-## A. October 17, November 7, and November 15, 2018 Minutes
+## October 17, November 7, and November 15, 2018 Minutes
 
-## B. November and December, 2018 Financial Reports
+## November and December, 2018 Financial Reports
 
-# III. MANAGER’S REPORT
+# MANAGER’S REPORT
 
-# IV. PUBLIC COMMENT PERIOD
+# PUBLIC COMMENT PERIOD
 
-# V. OLD BUSINESS
+# OLD BUSINESS
 
-## A. Marina Project
+## Marina Project
 
-## B. FEMA Claim
+## FEMA Claim
 
-## C. Parking
+## Parking
 
-# VI. NEW BUSINESS
+# NEW BUSINESS
 
-## A. 2019 / 2020 Budget
+## 2019 / 2020 Budget
 
-## B. February Meeting
+## February Meeting
 
-# VII. COMMISSIONERS’ COMMENTS 
+# COMMISSIONERS’ COMMENTS 
 
-# VII. ADJOURNMENT
+# ADJOURNMENT
 

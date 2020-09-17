@@ -1,12 +1,11 @@
 ---
 title: Tags & Categories
-sets:
-    default:
-        name: Filtered Pages
-        showCount: true
-        showMenu: true
 content:
+    title: Filtered Pages
     items: '@root.descendants'
+    order:
+        by: date
+        dir: desc
 ---
 
 - filter all pages by taxonomies

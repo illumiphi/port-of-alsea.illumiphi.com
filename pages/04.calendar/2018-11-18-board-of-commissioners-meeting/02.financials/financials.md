@@ -4,12 +4,8 @@ title: Financials
 subtitle: October 2018
 date: 08/03/2020
 author: /roxie
-sets:
-    default:
-        name: Attachments
-        showCount: true
-        showMenu: true
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 

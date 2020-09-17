@@ -4,19 +4,14 @@ title: June 2020 Board of Commissioners
 subtitle: Special Meeting
 date: 06/03/2020
 author: /roxie
-sets:
-    default:
-        name: Attachments
-        showCount: true
-        showMenu: true
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 
-        - Commissioners
-    tag: 
         - Meetings
-show_gallery: false
+    tag: 
+        - commissioners
 data:
     event:
         '@type': Event

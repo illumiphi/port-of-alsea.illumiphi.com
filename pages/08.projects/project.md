@@ -10,7 +10,6 @@ content:
 show_gallery: false
 taxonomy:
     category:
-        - Projects
     photon: 
         - header
 ---

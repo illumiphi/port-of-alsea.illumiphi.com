@@ -4,19 +4,15 @@ title: 2019 Budget Hearing
 subtitle: for Fiscal Year beginning July 2019
 date: 05/15/2019
 author: /roxie
-sets:
-    default:
-        name: Attachments
-        showCount: true
-        showMenu: true
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 
-        - Commissioners
-        - Budget
-    tag: 
         - Meetings
+    tag: 
+        - commissioners
+        - budget
 show_gallery: false
 data:
     event:

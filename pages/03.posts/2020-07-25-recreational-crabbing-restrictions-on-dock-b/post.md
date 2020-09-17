@@ -3,18 +3,14 @@ title: Recreational crabbing restrictions on Dock B
 subtitle: Slips B-8 to B-10 are restricted
 date: 07/25/2020
 author: /roxie
-sets:
-    default:
-        name: Attachments
-        showCount: true
-        showMenu: true
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 
-        - Recreation
+        - Announcements
     tag: 
-        - crabbing
+        - recreation
     photon:
         - featured
 show_gallery: true

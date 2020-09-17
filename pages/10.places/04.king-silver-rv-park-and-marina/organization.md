@@ -6,8 +6,6 @@ content:
     items: '@self.children'
 taxonomy:
     tag:
-        - RV
-        - Boating
 data:
     organization:
         '@type': Organization

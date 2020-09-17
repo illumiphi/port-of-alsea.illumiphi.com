@@ -1,10 +1,7 @@
 ---
 title: Map
-collection:
-    name: Articles
-    showCount: false
-    showMenu: false
 content:
+    title: Articles
     items: '@self.children'
 ---
 

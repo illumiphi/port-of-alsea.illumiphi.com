@@ -1,22 +1,17 @@
 ---
 template: event
-title: Board of Commissioners
+title: October 2018 Board of Commissioners
 subtitle: Executive Session
-date: 10/10/2018
 author: /roxie
-sets:
-    default:
-        name: Attachments
-        showCount: true
-        showMenu: true
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 
-        - Commissioners
-    tag: 
         - Meetings
-show_gallery: false
+    tag: 
+        - commissioners
+date: 10/10/2018
 data:
     event:
         '@type': Event

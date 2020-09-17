@@ -22,7 +22,8 @@ data:
             addressCountry: US
 show_gallery: false
 taxonomy:
-    category: Commissioners
+    tag: 
+        - commissioners
 ---
 
 Commissioner since 2011

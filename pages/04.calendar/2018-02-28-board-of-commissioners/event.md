@@ -2,19 +2,15 @@
 title: February 2018 Board of Commissioners
 subtitle: Regular Monthly Meeting
 author: /roxie
-sets:
-    default:
-        name: Attachments
-        showCount: false
-        showMenu: false
 content:
+    title: Attachments
     items: '@self.children'
 date: '02/07/2018'
 taxonomy:
     category: 
-        - Commissioners
-    tag: 
         - Meetings
+    tag: 
+        - commissioners
 data:
     event:
         startDate: '02/15/2018 02:00 pm'

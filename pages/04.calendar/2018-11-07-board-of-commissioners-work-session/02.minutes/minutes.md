@@ -1,15 +1,11 @@
 ---
 template: article
-title: Minutes
+title: November 2018 Special Meeting Minutes
 subtitle: Special Meeting of the Port of Alsea Board of Commissioners
 date: 11/07/2018
 author: /roxie
-sets:
-    default:
-        name: Attachments
-        showCount: true
-        showMenu: true
 content:
+    title: Attachments
     items: '@self.children'
 taxonomy:
     category: 

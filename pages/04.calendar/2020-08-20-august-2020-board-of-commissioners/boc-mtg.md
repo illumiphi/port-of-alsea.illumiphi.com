@@ -6,16 +6,12 @@ date: 08/19/2020
 author: /roxie
 content:
     title: Attachments
-    showCount: true
-    showMenu: true
     items: '@self.children'
 taxonomy:
-    photon:
-    category:
-        - Commissioners
-    tag:
+    category: 
         - Meetings
-show_gallery: false
+    tag: 
+        - commissioners
 data:
     event:
         '@type': Event

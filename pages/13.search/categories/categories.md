@@ -5,6 +5,9 @@ content:
     showCount: true
     showMenu: true
     items: '@root.descendants'
+    order:
+        by: date
+        dir: desc
 ---
 
 

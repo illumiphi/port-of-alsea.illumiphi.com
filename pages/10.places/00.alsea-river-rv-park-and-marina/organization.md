@@ -9,9 +9,6 @@ content:
     items: '@self.children'
 taxonomy:
     tag:
-        - Camping
-        - RV
-        - Lodging
 data:
     organization:
         '@type': Organization

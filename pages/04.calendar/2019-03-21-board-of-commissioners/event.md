@@ -1,19 +1,15 @@
 ---
 title: March 2019 Board of Commissioners
 subtitle: Regular Monthly Meeting
-sets:
-    default:
-        name: Attachments
-        showCount: false
-        showMenu: false
-content:
-    items: '@self.children'
 date: 03/11/2019
+content:
+    title: Attachments
+    items: '@self.children'
 taxonomy:
     category: 
-        - Commissioners
-    tag: 
         - Meetings
+    tag: 
+        - commissioners
 data:
     event:
         startDate: '03/21/2019 02:00 pm'
