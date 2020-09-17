@@ -11,7 +11,6 @@ content:
     items: '@self.children'
 taxonomy:
     photon:
-        - featured
     category:
         - Commissioners
     tag:
