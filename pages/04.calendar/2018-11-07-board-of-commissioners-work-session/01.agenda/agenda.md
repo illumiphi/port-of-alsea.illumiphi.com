@@ -20,3 +20,13 @@ Wednesday, November 07, 2018 09:30 AM at the Port Office
 ===
 
 
+# CALL TO ORDER
+
+# CONSENT CALENDAR
+
+## October 11, 2018 Minutes
+
+# Work Shop with Bergerson Construction
+
+# ADJOURNMENT
+

@@ -52,9 +52,9 @@ VTF was asked if there were any mitigation projects along the Yachats River that
 
 The commissioners expresses a willingness to build a kayak / canoe launch on the river if a group such as VTF were to acquire access land along the river.
 
-#	OLD BUSINESS
+# OLD BUSINESS
 
-##  	Port’s Bond Measure Information Mailing
+##   Port’s Bond Measure Information Mailing
 
 Cuellar told the commissioners that the Elections Division at the Secretary of State’s office had approved the wording of the information sheet that the Port would be mailing out to households with registered voters.  She also told the commissioners that the number of households was higher than she had estimated, so the cost of the mailer would be a few hundred dollars more than anticipated.  The mailer is scheduled to reach voters’ mailboxes about April 21.  Ballots will be mailed out on about April 25.
 
@@ -63,7 +63,7 @@ Cuellar told the commissioners that the Elections Division at the Secretary of S
 Cuellar told the commissioners that Mark Wiederhold would be leveling the lot behind the office for the food carts.  Troy Smith wants to install his food cart in May and open as soon as possible.  The Port would work with any food carts and Wiederhold to determine where to install the utilities.  The Port will provide water, power, and sewer.
 
 
-#	NEW BUSINESS
+# NEW BUSINESS
 
 ## Reappointment of Linda Eriksen to the Budget Committee
 

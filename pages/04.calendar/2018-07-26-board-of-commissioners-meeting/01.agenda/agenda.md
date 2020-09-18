@@ -20,3 +20,29 @@ Thursday, July 26, 2018 02:00 PM at the Port Office
 ===
 
 
+# CALL TO ORDER
+
+# CONSENT CALENDAR
+
+## Approval of the June 28, 2018, Regular Meeting Minutes
+## March Financial Statement
+
+# PUBLIC HEARING ON THE EXEMPTION FROM COMPETITIVE BIDDING REQUIREMENTS
+
+# ADOPTION OF THE FINDINGS FOR DESIGN-BUILD BIDS
+
+# MANAGER’S REPORT
+
+# PUBLIC COMMENT PERIOD
+
+# OLD BUSINESS
+
+## Sale of the Bonds
+## Meeting with the Marina Board
+## Request for Proposals (RFP) on Marina Construction
+## Reimbursement from Business Oregon
+
+# COMMISSIONERS’ COMMENTS
+
+# ADJOURNMENT
+
