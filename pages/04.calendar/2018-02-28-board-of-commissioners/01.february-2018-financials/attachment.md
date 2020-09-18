@@ -2,9 +2,12 @@
 template: article
 title: February 2018 Financials
 subtitle: 
-date: 2018-02-15
+date: 02/15/2018
 author: /roxie
 body_classes: roman
+content:
+    title: Attachments
+    items: '@self.children'
 taxonomy:
     category: 
         - Documents
