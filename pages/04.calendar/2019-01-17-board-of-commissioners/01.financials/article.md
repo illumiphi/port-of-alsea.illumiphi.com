@@ -1,7 +1,7 @@
 ---
 title: Financials
 subtitle: December 2018 
-date: 2019-01-12
+date: 02/12/2019
 author: /roxie
 content:
     title: Attachments
