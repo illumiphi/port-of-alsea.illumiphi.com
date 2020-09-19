@@ -2,3 +2,4 @@ data/tntsearch
 *.swp
 .sass-cache
 tags
+config/security.yaml
