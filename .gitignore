@@ -3,3 +3,4 @@ data/tntsearch
 .sass-cache
 tags
 config/security.yaml
+*/config/security.yaml
