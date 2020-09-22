@@ -1,11 +1,8 @@
 ---
 title: Search
-content:
-    # items: '@root.descendants'
 taxonomy:
     photon: 
         - header
-show_gallery: false
 ---
 
 search across entire site

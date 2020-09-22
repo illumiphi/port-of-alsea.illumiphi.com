@@ -12,7 +12,6 @@ content:
 taxonomy:
     photon:
         - header
-        - showcase
 show_gallery: true
 ---
 
