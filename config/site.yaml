@@ -17,4 +17,4 @@ summary:
   delimiter: '==='
 blog:
   route: /blog
-logo: /logo/logo.png
+logo: /port-logo-mark.svg

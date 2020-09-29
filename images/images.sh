@@ -17,13 +17,13 @@ cd $imgexportdir
 
 for img in *.jpg
 do
-  img_slug=$(slugify "$img")
-  img_meta=${img_slug}.meta.yaml
+  img_slug=$(slugify "${img%.jpg}")
+  img_meta=${img_slug}.jpg.meta.yaml
 
   echo $img
   echo $img_slug
   echo $img_meta
-  cp "$img" "../$img_slug"
+  cp "$img" "../${img_slug}.jpg"
 
   echo title: $(getExif Title) > ../$img_meta
   echo description: $(getExif Description) >> ../$img_meta
