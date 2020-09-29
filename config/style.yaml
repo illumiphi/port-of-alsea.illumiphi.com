@@ -1,10 +1,10 @@
 color:
   key:
-    hue: 222
+    hue: 210
   1:
     hueOffset: 0
   2:
-    hueOffset: 210
+    hueOffset: 0
   saturation: 44
   lightness:
     lighter: 77
