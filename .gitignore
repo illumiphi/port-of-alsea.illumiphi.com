@@ -1,4 +1,5 @@
 data/tntsearch
+data/notifications/*
 *.swp
 .sass-cache
 tags

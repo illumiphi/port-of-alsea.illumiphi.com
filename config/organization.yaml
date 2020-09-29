@@ -22,3 +22,8 @@ openingHours:
     start: '16:00'
     end: '20:30'
 url: 'https://portofalsea.com'
+owa:
+  siteId: 3a184d88bc9ffbfa33254c63fd72eda0
+  trackPageView: true
+  trackCLicks: false
+  trackDomStream: false
