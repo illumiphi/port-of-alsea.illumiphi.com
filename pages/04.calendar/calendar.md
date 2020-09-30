@@ -3,13 +3,9 @@ title: Calendar
 subtitle: 'Meetings, Activites and Events around the Port of Alsea'
 content:
     title: Events
-    showCount: true
-    showMenu: true
     items: '@self.children'
 upcoming:
     title: Upcoming
-    showCount: true
-    showMenu: true
     items: '@self.children'
     dateRange:
       start: -1 month
