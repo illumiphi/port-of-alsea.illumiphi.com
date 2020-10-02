@@ -3,15 +3,15 @@ title: Port of Alsea
 subtitle: Serving the Alsea and Yachats waterways of the Oregon Coast
 menu: Home
 content:
-    title: 'Recent Updates'
-    items: '@root.descendants'
+    title: 'Top Sections'
+    items: 
+        '@taxonomy.photon': header
     order:
-        by: date
-        dir: desc
-    limit: 10
+        by: default
+        dir: asc
 taxonomy:
     photon:
-        - header
+    # - header
 show_gallery: true
 ---
 
