@@ -12,6 +12,8 @@ taxonomy:
         - Meetings
     tag: 
         - commissioners
+    photon:
+        - featured
 show_gallery: false
 data:
     event:
