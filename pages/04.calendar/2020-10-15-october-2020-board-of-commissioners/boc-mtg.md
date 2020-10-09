@@ -21,38 +21,32 @@ data:
         startDate: 2020-10-15 14:00
         location:
             '@type': Place
-            name: Port Office
-            geo:
-                '@type': GeoCoordinates
-                latitude: 44.4343779,
-                longitude:  -124.0593175 
+            name: Port Shop
             address:
-                streetAddress: 365 Port St #A
+                streetAddress: 1220 Broadway
                 addressLocality: Waldport
                 addressRegion: OR
                 postalCode: 97394
                 addressCountry: US
 ---
 
-The regular monthly meeting of the Port of Alsea Board of Commissioners will be held on Thursday, October 15, 2020 @ 02:00PM at the Port Office
+The regular monthly meeting of the Port of Alsea Board of Commissioners will be held on Thursday, October 15, 2020 @ 02:00PM in the Port Shop located at 1220 Broadway, Waldport, OR 97394.
 
 ===
 
-
+The agenda includes procedures for closing the Port’s boat launch and marina facilities.
 
 ## Related Documents
 The agenda and related documents will be posted on the [Port of Alsea Calendar](http://www.portofalsea.com/calendar) entry for this meeting. Contact the Port Office to request hard copies.
 
-
 ## Regular Meetings
-Regular meetings of the Port of Alsea Board of Commissioners are usually scheduled on the third Thursday of every month at 2:00 PM. Due to Covid-19 restrictions, the Board will be inviting the public to participate on the teleconference until further notice.
+Regular meetings are usually scheduled on the third Thursday of every month at 2:00 PM, either in Yachats or at the Port of Alsea office in Waldport, Oregon 97394.   Both locations are accessible to people with disabilities. A request for an interpreter for the hearing impaired or for other accommodations for persons with disabilities should be made at least 48 hours in advance of the meeting to the Port of Alsea office at 541-563-3872.
 
-Those who wish to attend the meeting but cannot do so by phone or require other accommodations should contact the Port Manager within 48 hours of the meeting. 
 
 ## Contact
 Contact us with any questions, comments, or requests. 
 
->> Roxie Cuellar, Port Manager
-    rcuellar@portofalsea.com
-    541-563-3872 
+> Roxie Cuellar, Port Manager
+> - rcuellar@portofalsea.com
+> - 541-563-3872 
 
