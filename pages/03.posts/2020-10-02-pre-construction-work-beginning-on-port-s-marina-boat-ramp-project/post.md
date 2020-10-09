@@ -12,7 +12,6 @@ taxonomy:
     tag: 
         - marina
     photon:
-        - featured
 show_gallery: true
 ---
 

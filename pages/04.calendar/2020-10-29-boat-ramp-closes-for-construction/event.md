@@ -1,8 +1,8 @@
 ---
-title: Boat Ramp Construction Begins
-subtitle: 
+title: Boat Ramp Closes for Construction
+subtitle: postponed from Oct 21 for tides
 date: 10/02/2020
-author: /roxie
+author: /jan
 content:
     title: Attachments
     items: '@self.children'
@@ -15,9 +15,9 @@ show_gallery: false
 data:
     event:
         '@type': Event
-        startDate: 2020-10-26 8:00AM
+        startDate: 2020-10-29 5:00PM
         endDate: 
-        allDay: false
+        allDay: 
         location:
             '@type': Place
             name: Port Marina
