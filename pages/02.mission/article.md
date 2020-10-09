@@ -11,13 +11,15 @@ taxonomy:
 show_gallery: true
 ---
 
+The mission of the Port of Alsea is to promote the business development potential of Port District assets and to preserve, protect, and promote the ecological, aesthetic and economic resources of the Alsea and Yachats River systems, and the interests of those who enjoy them.
+
+===
+
 The Port District was formed in 1910 and includes the communities of Waldport, Yachats and Tidewater. The Port holds land in public trust throughout much of the Alsea estuary up to mean high tide, as surveyed in 1912.
 
 - marina
 - boat launch
 - moorage
-
-===
 
 Crabbing is among the best in the state, and the bay also offers excellent salmon fishing and clamming.   Public docks for crabbing, fishing, and moorage, a launch ramp, Robinson Park and picnic area, are among the facilities available in the Port area.  Many private marinas along the river provide similar services.
 
