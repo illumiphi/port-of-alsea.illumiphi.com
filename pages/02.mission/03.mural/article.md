@@ -1,5 +1,5 @@
 ---
-title: 'Celebrating our native Heritage'
+title: 'Celebrating our Native Heritage'
 subtitle: 'Port of Alsea sponsors Waldport historic mural'
 content:
     items: '@self.children'
@@ -10,7 +10,6 @@ gallery:
     show: true
 taxonomy:
     tag:
-show_gallery: true
 ---
 
 In 2011, the Port of Alsea commissioned a mural from local artist Casey McEneny to celebrate the Native American heritage of our region.  The mural is located on Hwy101 in downtown Waldport, and is most visible when travelling north.
